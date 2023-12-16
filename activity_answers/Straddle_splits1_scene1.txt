@@ -1,0 +1,3 @@
+event:event0_straddle_splits1_scene1,time:7.659,action:walk,object:bedroom75_scene1
+event:event1_straddle_splits1_scene1,time:16.422,action:walk,object:kitchen209_scene1
+event:event2_straddle_splits1_scene1,time:28.427999999999997,action:walk,object:livingroom342_scene1

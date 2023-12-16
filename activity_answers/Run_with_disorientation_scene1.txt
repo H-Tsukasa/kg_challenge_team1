@@ -1,0 +1,3 @@
+event:event0_run_with_disorientation_scene1,time:5.864999999999999,action:run,object:bedroom75_scene1
+event:event1_run_with_disorientation_scene1,time:11.867999999999999,action:run,object:kitchen209_scene1
+event:event2_run_with_disorientation_scene1,time:18.906,action:run,object:livingroom342_scene1

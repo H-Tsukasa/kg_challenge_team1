@@ -1,0 +1,3 @@
+event:event0_turn_off_light6_scene6,time:3.174,action:walk,object:lightswitch328_scene6,place:livingroom260_scene6
+event:event1_turn_off_light6_scene6,time:9.66,action:switchOff,object:lightswitch328_scene6,place:livingroom260_scene6
+event:event2_turn_off_light6_scene6,time:15.594,action:walk,object:bedroom70_scene6

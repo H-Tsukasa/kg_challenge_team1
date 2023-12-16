@@ -1,0 +1,7 @@
+He turn to door.
+He grab door.
+He close door.
+He open door.
+He shake door.
+He touch door.
+He wipe door.

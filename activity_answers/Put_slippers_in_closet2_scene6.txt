@@ -1,0 +1,4 @@
+event:event0_put_slippers_in_closet2_scene6,time:4.14,action:walk,object:slippers121_scene6,place:bedroom70_scene6
+event:event1_put_slippers_in_closet2_scene6,time:7.244999999999999,action:grab,object:slippers121_scene6,place:bedroom70_scene6
+event:event2_put_slippers_in_closet2_scene6,time:15.110999999999999,action:walk,object:closet105_scene6,place:bedroom70_scene6
+event:event3_put_slippers_in_closet2_scene6,time:18.147,action:putIn,object:slippers121_scene6,t_object:closet105_scene6,place:bedroom70_scene6

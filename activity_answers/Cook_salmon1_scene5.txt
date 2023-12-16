@@ -1,0 +1,11 @@
+event:event0_cook_salmon1_scene5,time:7.659,action:walk,object:kitchen112_scene5
+event:event1_cook_salmon1_scene5,time:13.524,action:walk,object:salmon217_scene5,place:kitchen112_scene5
+event:event2_cook_salmon1_scene5,time:16.628999999999998,action:grab,object:salmon217_scene5,place:kitchen112_scene5
+event:event3_cook_salmon1_scene5,time:20.147999999999996,action:walk,object:sink152_scene5,place:kitchen112_scene5
+event:event4_cook_salmon1_scene5,time:23.528999999999996,action:switchOn,object:faucet153_scene5,place:kitchen112_scene5
+event:event5_cook_salmon1_scene5,time:38.63999999999999,action:soak,object:salmon217_scene5,place:kitchen112_scene5
+event:event6_cook_salmon1_scene5,time:42.020999999999994,action:switchOff,object:faucet153_scene5,place:kitchen112_scene5
+event:event7_cook_salmon1_scene5,time:47.471999999999994,action:walk,object:fryingpan197_scene5,place:kitchen112_scene5
+event:event8_cook_salmon1_scene5,time:50.507999999999996,action:put,object:salmon217_scene5,t_object:fryingpan197_scene5,place:kitchen112_scene5
+event:event9_cook_salmon1_scene5,time:53.81999999999999,action:switchOn,object:stove155_scene5,place:kitchen112_scene5
+event:event10_cook_salmon1_scene5,time:57.13199999999999,action:switchOff,object:stove155_scene5,place:kitchen112_scene5

@@ -1,0 +1,7 @@
+event:event0_fall_while_preparing_meal2_scene3,time:8.418,action:walk,object:milk182_scene3,place:kitchen11_scene3
+event:event1_fall_while_preparing_meal2_scene3,time:11.523,action:grab,object:milk182_scene3,place:kitchen11_scene3
+event:event2_fall_while_preparing_meal2_scene3,time:19.941,action:walk,object:cupcake191_scene3,place:kitchen11_scene3
+event:event3_fall_while_preparing_meal2_scene3,time:23.046,action:grab,object:cupcake191_scene3,place:kitchen11_scene3
+event:event4_fall_while_preparing_meal2_scene3,time:35.535,action:walk,object:livingroom194_scene3
+event:event5_fall_while_preparing_meal2_scene3,time:41.952,action:walk,object:tvstand218_scene3,place:livingroom194_scene3
+event:event6_fall_while_preparing_meal2_scene3,time:45.608999999999995,action:turnTo,object:wallshelf219_scene3,place:livingroom194_scene3

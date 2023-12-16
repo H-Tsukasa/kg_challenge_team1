@@ -1,0 +1,1 @@
+event:event0_squat_jumps1_scene5,time:7.659,action:walk,object:livingroom11_scene5

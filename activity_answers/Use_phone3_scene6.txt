@@ -1,0 +1,10 @@
+event:event0_use_phone3_scene6,time:4.760999999999999,action:walk,object:cellphone336_scene6,place:livingroom260_scene6
+event:event1_use_phone3_scene6,time:7.866,action:grab,object:cellphone336_scene6,place:livingroom260_scene6
+event:event2_use_phone3_scene6,time:16.491,action:walk,object:bedroom70_scene6
+event:event3_use_phone3_scene6,time:20.907,action:walk,object:bed104_scene6,place:bedroom70_scene6
+event:event4_use_phone3_scene6,time:29.256,action:sit,object:bed104_scene6,place:bedroom70_scene6
+event:event5_use_phone3_scene6,time:43.539,action:text,object:cellphone336_scene6,place:bedroom70_scene6
+event:event7_use_phone3_scene6,time:43.539,action:walk,object:livingroom260_scene6,place:livingroom260_scene6
+event:event8_use_phone3_scene6,time:57.615,action:walk,object:sofa293_scene6
+event:event9_use_phone3_scene6,time:68.517,action:sit,object:sofa293_scene6,place:livingroom260_scene6
+event:event10_use_phone3_scene6,time:83.00699999999999,action:text,object:cellphone336_scene6,place:livingroom260_scene6

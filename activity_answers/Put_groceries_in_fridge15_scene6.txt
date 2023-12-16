@@ -1,0 +1,7 @@
+event:event0_put_groceries_in_fridge15_scene6,time:9.038999999999998,action:walk,object:cereal246_scene6,place:kitchen161_scene6
+event:event1_put_groceries_in_fridge15_scene6,time:12.143999999999998,action:grab,object:cereal246_scene6,place:kitchen161_scene6
+event:event2_put_groceries_in_fridge15_scene6,time:17.939999999999998,action:walk,object:fridge240_scene6,place:kitchen161_scene6
+event:event3_put_groceries_in_fridge15_scene6,time:21.251999999999995,action:open,object:fridge240_scene6,place:kitchen161_scene6
+event:event4_put_groceries_in_fridge15_scene6,time:21.251999999999995,action:turnTo,object:fridge240_scene6,place:kitchen161_scene6
+event:event5_put_groceries_in_fridge15_scene6,time:24.287999999999997,action:putIn,object:cereal246_scene6,t_object:fridge240_scene6,place:kitchen161_scene6
+event:event6_put_groceries_in_fridge15_scene6,time:27.599999999999994,action:close,object:fridge240_scene6,place:kitchen161_scene6

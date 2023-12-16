@@ -1,0 +1,11 @@
+event:event0_write_notes1_scene3,time:6.141,action:walk,object:paper424_scene3,place:bedroom358_scene3
+event:event1_write_notes1_scene3,time:9.246,action:grab,object:paper424_scene3,place:bedroom358_scene3
+event:event2_write_notes1_scene3,time:12.351,action:walk,object:desk406_scene3,place:bedroom358_scene3
+event:event3_write_notes1_scene3,time:13.593,action:walk,object:chair405_scene3,place:bedroom358_scene3
+event:event4_write_notes1_scene3,time:21.114,action:sit,object:chair405_scene3,place:bedroom358_scene3
+event:event5_write_notes1_scene3,time:33.051,action:write,object:paper424_scene3,place:bedroom358_scene3
+event:event7_write_notes1_scene3,time:35.88,action:walk,object:desk406_scene3,place:bedroom358_scene3
+event:event8_write_notes1_scene3,time:38.916000000000004,action:put,object:paper424_scene3,t_object:desk406_scene3,place:bedroom358_scene3
+event:event9_write_notes1_scene3,time:44.712,action:walk,object:bathroom297_scene3
+event:event10_write_notes1_scene3,time:49.197,action:walk,object:toilet333_scene3,place:bathroom297_scene3
+event:event11_write_notes1_scene3,time:57.201,action:sit,object:toilet333_scene3,place:bathroom297_scene3

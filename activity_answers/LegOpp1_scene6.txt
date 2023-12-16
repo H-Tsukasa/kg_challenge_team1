@@ -1,0 +1,2 @@
+event:event0_legopp1_scene6,time:7.382999999999999,action:walk,object:bedroom70_scene6
+event:event1_legopp1_scene6,time:15.939,action:walk,object:livingroom260_scene6

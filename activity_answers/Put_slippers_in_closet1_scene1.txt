@@ -1,0 +1,16 @@
+event:event0_put_slippers_in_closet1_scene1,time:10.142999999999999,action:walk,object:slippers204_scene1,place:bedroom75_scene1
+event:event1_put_slippers_in_closet1_scene1,time:13.248,action:grab,object:slippers204_scene1,place:bedroom75_scene1
+event:event2_put_slippers_in_closet1_scene1,time:22.839,action:walk,object:bathroom11_scene1
+event:event3_put_slippers_in_closet1_scene1,time:27.392999999999997,action:walk,object:sink51_scene1,place:bathroom11_scene1
+event:event4_put_slippers_in_closet1_scene1,time:33.534,action:switchOn,object:faucet52_scene1,place:bathroom11_scene1
+event:event5_put_slippers_in_closet1_scene1,time:38.916,action:walk,object:towel55_scene1,place:bathroom11_scene1
+event:event6_put_slippers_in_closet1_scene1,time:42.020999999999994,action:grab,object:towel55_scene1,place:bathroom11_scene1
+event:event7_put_slippers_in_closet1_scene1,time:47.95499999999999,action:walk,object:sink51_scene1,place:bathroom11_scene1
+event:event8_put_slippers_in_closet1_scene1,time:50.99099999999999,action:put,object:towel55_scene1,t_object:sink51_scene1,place:bathroom11_scene1
+event:event9_put_slippers_in_closet1_scene1,time:56.16599999999999,action:switchOff,object:faucet52_scene1,place:bathroom11_scene1
+event:event10_put_slippers_in_closet1_scene1,time:58.64999999999999,action:walk,object:towel55_scene1,place:bathroom11_scene1
+event:event11_put_slippers_in_closet1_scene1,time:61.75499999999999,action:grab,object:towel55_scene1,place:bathroom11_scene1
+event:event12_put_slippers_in_closet1_scene1,time:72.79499999999999,action:walk,object:bedroom75_scene1
+event:event13_put_slippers_in_closet1_scene1,time:94.18499999999999,action:scrub,object:towel55_scene1,t_object:slippers204_scene1,place:bedroom75_scene1
+event:event14_put_slippers_in_closet1_scene1,time:100.04999999999998,action:walk,object:closet115_scene1,place:bedroom75_scene1
+event:event15_put_slippers_in_closet1_scene1,time:103.08599999999998,action:putIn,object:slippers204_scene1,t_object:closet115_scene1,place:bedroom75_scene1

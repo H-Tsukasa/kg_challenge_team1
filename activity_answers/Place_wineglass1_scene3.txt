@@ -1,0 +1,4 @@
+event:event0_place_wineglass1_scene3,time:8.418,action:walk,object:wineglass424_scene3,place:kitchen11_scene3
+event:event1_place_wineglass1_scene3,time:11.523,action:grab,object:wineglass424_scene3,place:kitchen11_scene3
+event:event2_place_wineglass1_scene3,time:14.972999999999999,action:walk,object:kitchentable134_scene3,place:kitchen11_scene3
+event:event3_place_wineglass1_scene3,time:18.009,action:put,object:wineglass424_scene3,t_object:kitchentable134_scene3,place:kitchen11_scene3

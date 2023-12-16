@@ -1,0 +1,2 @@
+event:event0_squats1_scene6,time:7.866,action:walk,object:bedroom70_scene6
+event:event1_squats1_scene6,time:16.422,action:walk,object:livingroom260_scene6

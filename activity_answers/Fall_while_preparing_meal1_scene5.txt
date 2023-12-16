@@ -1,0 +1,6 @@
+event:event0_fall_while_preparing_meal1_scene5,time:6.209999999999999,action:walk,object:fryingpan197_scene5,place:kitchen112_scene5
+event:event1_fall_while_preparing_meal1_scene5,time:9.315,action:grab,object:fryingpan197_scene5,place:kitchen112_scene5
+event:event2_fall_while_preparing_meal1_scene5,time:14.628,action:walk,object:chicken216_scene5,place:kitchen112_scene5
+event:event3_fall_while_preparing_meal1_scene5,time:17.733,action:grab,object:chicken216_scene5,place:kitchen112_scene5
+event:event4_fall_while_preparing_meal1_scene5,time:21.804000000000002,action:walk,object:sink152_scene5,place:kitchen112_scene5
+event:event5_fall_while_preparing_meal1_scene5,time:24.909000000000002,action:turnTo,object:microwave163_scene5,place:kitchen112_scene5

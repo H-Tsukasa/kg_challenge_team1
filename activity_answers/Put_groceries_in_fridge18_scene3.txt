@@ -1,0 +1,7 @@
+event:event0_put_groceries_in_fridge18_scene3,time:8.211,action:walk,object:chocolatesyrup176_scene3,place:kitchen11_scene3
+event:event1_put_groceries_in_fridge18_scene3,time:11.316,action:grab,object:chocolatesyrup176_scene3,place:kitchen11_scene3
+event:event2_put_groceries_in_fridge18_scene3,time:15.249,action:walk,object:fridge165_scene3,place:kitchen11_scene3
+event:event3_put_groceries_in_fridge18_scene3,time:18.561,action:open,object:fridge165_scene3,place:kitchen11_scene3
+event:event4_put_groceries_in_fridge18_scene3,time:18.561,action:turnTo,object:fridge165_scene3,place:kitchen11_scene3
+event:event5_put_groceries_in_fridge18_scene3,time:21.597,action:putIn,object:chocolatesyrup176_scene3,t_object:fridge165_scene3,place:kitchen11_scene3
+event:event6_put_groceries_in_fridge18_scene3,time:24.909,action:close,object:fridge165_scene3,place:kitchen11_scene3

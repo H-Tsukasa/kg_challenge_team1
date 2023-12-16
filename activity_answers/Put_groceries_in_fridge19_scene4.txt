@@ -1,0 +1,7 @@
+event:event0_put_groceries_in_fridge19_scene4,time:5.52,action:walk,object:crackers63_scene4,place:kitchen11_scene4
+event:event1_put_groceries_in_fridge19_scene4,time:8.625,action:grab,object:crackers63_scene4,place:kitchen11_scene4
+event:event2_put_groceries_in_fridge19_scene4,time:16.076999999999998,action:walk,object:fridge107_scene4,place:kitchen11_scene4
+event:event3_put_groceries_in_fridge19_scene4,time:19.388999999999996,action:open,object:fridge107_scene4,place:kitchen11_scene4
+event:event4_put_groceries_in_fridge19_scene4,time:19.388999999999996,action:turnTo,object:fridge107_scene4,place:kitchen11_scene4
+event:event5_put_groceries_in_fridge19_scene4,time:22.424999999999997,action:putIn,object:crackers63_scene4,t_object:fridge107_scene4,place:kitchen11_scene4
+event:event6_put_groceries_in_fridge19_scene4,time:25.736999999999995,action:close,object:fridge107_scene4,place:kitchen11_scene4

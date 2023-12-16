@@ -1,0 +1,4 @@
+event:event0_fall_while_sitting_down1_scene3,time:10.142999999999999,action:walk,object:bedroom358_scene3
+event:event1_fall_while_sitting_down1_scene3,time:16.904999999999998,action:walk,object:chair405_scene3,place:bedroom358_scene3
+event:event2_fall_while_sitting_down1_scene3,time:22.839,action:sit,object:chair405_scene3,place:bedroom358_scene3
+event:event3_fall_while_sitting_down1_scene3,time:38.294999999999995,action:fallsit,object:chair405_scene3,place:bedroom358_scene3

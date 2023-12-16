@@ -1,0 +1,4 @@
+event:event0_fall_while_climbing_at_somewhere_height1_scene4,time:3.45,action:walk,object:box326_scene4,place:livingroom274_scene4
+event:event1_fall_while_climbing_at_somewhere_height1_scene4,time:6.555,action:grab,object:box326_scene4,place:livingroom274_scene4
+event:event2_fall_while_climbing_at_somewhere_height1_scene4,time:15.318,action:walk,object:coffeetable275_scene4,place:livingroom274_scene4
+event:event3_fall_while_climbing_at_somewhere_height1_scene4,time:23.391,action:climb,object:coffeetable275_scene4,place:livingroom274_scene4

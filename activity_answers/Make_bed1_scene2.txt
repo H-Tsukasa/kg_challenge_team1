@@ -1,0 +1,7 @@
+event:event0_make_bed1_scene2,time:10.211999999999998,action:walk,object:bed231_scene2,place:bedroom197_scene2
+event:event1_make_bed1_scene2,time:19.319999999999997,action:walk,object:pillow240_scene2,place:bedroom197_scene2
+event:event2_make_bed1_scene2,time:22.424999999999997,action:grab,object:pillow240_scene2,place:bedroom197_scene2
+event:event3_make_bed1_scene2,time:33.18899999999999,action:throw,object:pillow240_scene2,place:bedroom197_scene2
+event:event4_make_bed1_scene2,time:47.81699999999999,action:shake,object:pillow240_scene2,place:bedroom197_scene2
+event:event5_make_bed1_scene2,time:54.16499999999999,action:put,object:pillow240_scene2,place:bedroom197_scene2
+event:event6_make_bed1_scene2,time:64.722,action:walk,object:kitchen51_scene2

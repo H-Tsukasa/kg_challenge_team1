@@ -1,0 +1,7 @@
+event:event0_put_groceries_in_fridge20_scene3,time:8.211,action:walk,object:creamybuns193_scene3,place:kitchen11_scene3
+event:event1_put_groceries_in_fridge20_scene3,time:11.316,action:grab,object:creamybuns193_scene3,place:kitchen11_scene3
+event:event2_put_groceries_in_fridge20_scene3,time:15.18,action:walk,object:fridge165_scene3,place:kitchen11_scene3
+event:event3_put_groceries_in_fridge20_scene3,time:18.491999999999997,action:open,object:fridge165_scene3,place:kitchen11_scene3
+event:event4_put_groceries_in_fridge20_scene3,time:18.491999999999997,action:turnTo,object:fridge165_scene3,place:kitchen11_scene3
+event:event5_put_groceries_in_fridge20_scene3,time:21.528,action:putIn,object:creamybuns193_scene3,t_object:fridge165_scene3,place:kitchen11_scene3
+event:event6_put_groceries_in_fridge20_scene3,time:24.839999999999996,action:close,object:fridge165_scene3,place:kitchen11_scene3

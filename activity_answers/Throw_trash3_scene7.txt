@@ -1,0 +1,7 @@
+event:event0_throw_trash3_scene7,time:3.45,action:walk,object:chicken179_scene7,place:kitchen56_scene7
+event:event1_throw_trash3_scene7,time:6.555,action:grab,object:chicken179_scene7,place:kitchen56_scene7
+event:event2_throw_trash3_scene7,time:9.729,action:walk,object:salmon178_scene7,place:kitchen56_scene7
+event:event3_throw_trash3_scene7,time:12.834,action:grab,object:salmon178_scene7,place:kitchen56_scene7
+event:event4_throw_trash3_scene7,time:16.008,action:walk,object:garbagecan112_scene7,place:kitchen56_scene7
+event:event5_throw_trash3_scene7,time:19.044,action:put,object:chicken179_scene7,t_object:garbagecan112_scene7,place:kitchen56_scene7
+event:event6_throw_trash3_scene7,time:22.080000000000002,action:put,object:salmon178_scene7,t_object:garbagecan112_scene7,place:kitchen56_scene7

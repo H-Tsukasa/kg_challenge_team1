@@ -1,0 +1,3 @@
+event:event0_squats1_scene1,time:9.453,action:walk,object:bedroom75_scene1
+event:event1_squats1_scene1,time:18.216,action:walk,object:kitchen209_scene1
+event:event2_squats1_scene1,time:30.36,action:walk,object:livingroom342_scene1

@@ -1,0 +1,4 @@
+event:event0_place_wine1_scene2,time:4.14,action:walk,object:wine348_scene2,place:kitchen51_scene2
+event:event1_place_wine1_scene2,time:7.244999999999999,action:grab,object:wine348_scene2,place:kitchen51_scene2
+event:event2_place_wine1_scene2,time:9.66,action:walk,object:kitchentable129_scene2,place:kitchen51_scene2
+event:event3_place_wine1_scene2,time:12.696,action:put,object:wine348_scene2,t_object:kitchentable129_scene2,place:kitchen51_scene2

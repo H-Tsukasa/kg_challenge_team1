@@ -1,0 +1,12 @@
+event:event0_clean_sink4_scene4,time:4.002,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event1_clean_sink4_scene4,time:6.486,action:walk,object:washingsponge115_scene4,place:kitchen11_scene4
+event:event2_clean_sink4_scene4,time:9.591,action:grab,object:washingsponge115_scene4,place:kitchen11_scene4
+event:event3_clean_sink4_scene4,time:11.385,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event4_clean_sink4_scene4,time:11.385,action:turnTo,object:sink94_scene4,place:kitchen11_scene4
+event:event5_clean_sink4_scene4,time:29.877000000000002,action:wipe,object:washingsponge115_scene4,t_object:sink94_scene4,place:kitchen11_scene4
+event:event6_clean_sink4_scene4,time:32.637,action:walk,object:faucet95_scene4,place:kitchen11_scene4
+event:event7_clean_sink4_scene4,time:36.018,action:switchOn,object:faucet95_scene4,place:kitchen11_scene4
+event:event8_clean_sink4_scene4,time:39.399,action:switchOff,object:faucet95_scene4,place:kitchen11_scene4
+event:event9_clean_sink4_scene4,time:42.573,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event10_clean_sink4_scene4,time:42.573,action:turnTo,object:sink94_scene4,place:kitchen11_scene4
+event:event11_clean_sink4_scene4,time:60.789,action:wipe,object:washingsponge115_scene4,t_object:sink94_scene4,place:kitchen11_scene4

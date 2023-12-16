@@ -1,0 +1,6 @@
+event:event0_fall_while_standing_and_reaching1_scene1,time:3.311999999999999,action:walk,object:bed112_scene1,place:bedroom75_scene1
+event:event1_fall_while_standing_and_reaching1_scene1,time:9.797999999999998,action:sit,object:bed112_scene1,place:bedroom75_scene1
+event:event3_fall_while_standing_and_reaching1_scene1,time:9.797999999999998,action:walk,object:kitchen209_scene1,place:kitchen209_scene1
+event:event4_fall_while_standing_and_reaching1_scene1,time:21.735,action:walk,object:kitchencabinet236_scene1
+event:event5_fall_while_standing_and_reaching1_scene1,time:25.046999999999997,action:open,object:kitchencabinet236_scene1,place:kitchen209_scene1
+event:event6_fall_while_standing_and_reaching1_scene1,time:29.325,action:turnTo,object:sink249_scene1,place:kitchen209_scene1

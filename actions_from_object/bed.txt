@@ -1,0 +1,9 @@
+He turn to bed.
+He grab bed.
+He switch off bed.
+He switch on bed.
+He close bed.
+He open bed.
+He shake bed.
+He fold bed.
+He touch bed.

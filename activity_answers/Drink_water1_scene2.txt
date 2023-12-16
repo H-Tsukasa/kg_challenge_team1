@@ -1,0 +1,14 @@
+event:event0_drink_water1_scene2,time:8.28,action:walk,object:kitchen51_scene2
+event:event1_drink_water1_scene2,time:15.18,action:walk,object:waterglass83_scene2,place:kitchen51_scene2
+event:event2_drink_water1_scene2,time:18.285,action:grab,object:waterglass83_scene2,place:kitchen51_scene2
+event:event3_drink_water1_scene2,time:25.668,action:walk,object:faucet150_scene2,place:kitchen51_scene2
+event:event4_drink_water1_scene2,time:29.049,action:switchOn,object:faucet150_scene2,place:kitchen51_scene2
+event:event5_drink_water1_scene2,time:29.049,action:walk,object:sink149_scene2,place:kitchen51_scene2
+event:event6_drink_water1_scene2,time:32.085,action:put,object:waterglass83_scene2,t_object:sink149_scene2,place:kitchen51_scene2
+event:event7_drink_water1_scene2,time:32.085,action:walk,object:faucet150_scene2,place:kitchen51_scene2
+event:event8_drink_water1_scene2,time:35.466,action:switchOff,object:faucet150_scene2,place:kitchen51_scene2
+event:event9_drink_water1_scene2,time:38.226,action:walk,object:waterglass83_scene2,place:kitchen51_scene2
+event:event10_drink_water1_scene2,time:41.330999999999996,action:grab,object:waterglass83_scene2,place:kitchen51_scene2
+event:event11_drink_water1_scene2,time:50.852999999999994,action:drink,object:waterglass83_scene2,place:kitchen51_scene2
+event:event12_drink_water1_scene2,time:55.062,action:walk,object:kitchencounter140_scene2,place:kitchen51_scene2
+event:event13_drink_water1_scene2,time:58.098,action:put,object:waterglass83_scene2,t_object:kitchencounter140_scene2,place:kitchen51_scene2

@@ -1,0 +1,7 @@
+event:event0_place_fork1_scene6,time:5.244,action:walk,object:cutleryfork218_scene6,place:kitchen161_scene6
+event:event1_place_fork1_scene6,time:8.349,action:grab,object:cutleryfork218_scene6,place:kitchen161_scene6
+event:event2_place_fork1_scene6,time:15.249,action:walk,object:cutleryfork222_scene6,place:kitchen161_scene6
+event:event3_place_fork1_scene6,time:18.354,action:grab,object:cutleryfork222_scene6,place:kitchen161_scene6
+event:event4_place_fork1_scene6,time:24.081,action:walk,object:kitchentable185_scene6,place:kitchen161_scene6
+event:event5_place_fork1_scene6,time:27.117,action:put,object:cutleryfork218_scene6,t_object:kitchentable185_scene6,place:kitchen161_scene6
+event:event6_place_fork1_scene6,time:30.153000000000002,action:put,object:cutleryfork222_scene6,t_object:kitchentable185_scene6,place:kitchen161_scene6

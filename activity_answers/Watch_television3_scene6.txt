@@ -1,0 +1,12 @@
+event:event0_watch_television3_scene6,time:11.109,action:walk,object:bedroom70_scene6
+event:event1_watch_television3_scene6,time:19.389,action:walk,object:livingroom260_scene6
+event:event2_watch_television3_scene6,time:24.771,action:walk,object:tv327_scene6,place:livingroom260_scene6
+event:event3_watch_television3_scene6,time:30.429000000000002,action:switchOn,object:tv327_scene6,place:livingroom260_scene6
+event:event4_watch_television3_scene6,time:34.155,action:walk,object:remotecontrol346_scene6,place:livingroom260_scene6
+event:event5_watch_television3_scene6,time:37.26,action:grab,object:remotecontrol346_scene6,place:livingroom260_scene6
+event:event6_watch_television3_scene6,time:41.262,action:walk,object:tv327_scene6,place:livingroom260_scene6
+event:event7_watch_television3_scene6,time:44.643,action:switchOff,object:tv327_scene6,place:livingroom260_scene6
+event:event8_watch_television3_scene6,time:47.955,action:walk,object:coffeetable295_scene6,place:livingroom260_scene6
+event:event9_watch_television3_scene6,time:50.991,action:put,object:remotecontrol346_scene6,t_object:coffeetable295_scene6,place:livingroom260_scene6
+event:event10_watch_television3_scene6,time:62.79,action:walk,object:bedroom70_scene6
+event:event11_watch_television3_scene6,time:69.414,action:walk,object:bathroom11_scene6

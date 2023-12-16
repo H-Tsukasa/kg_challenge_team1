@@ -1,0 +1,12 @@
+event:event0_do_homework_on_paper1_scene4,time:11.592,action:walk,object:bedroom216_scene4
+event:event1_do_homework_on_paper1_scene4,time:16.560000000000002,action:walk,object:book226_scene4,place:bedroom216_scene4
+event:event2_do_homework_on_paper1_scene4,time:19.665000000000003,action:grab,object:book226_scene4,place:bedroom216_scene4
+event:event3_do_homework_on_paper1_scene4,time:24.564000000000004,action:walk,object:desk219_scene4,place:bedroom216_scene4
+event:event4_do_homework_on_paper1_scene4,time:39.675000000000004,action:read,object:book226_scene4,place:bedroom216_scene4
+event:event5_do_homework_on_paper1_scene4,time:45.816,action:walk,object:notes253_scene4,place:bedroom216_scene4
+event:event6_do_homework_on_paper1_scene4,time:48.921,action:grab,object:notes253_scene4,place:bedroom216_scene4
+event:event7_do_homework_on_paper1_scene4,time:54.372,action:walk,object:desk219_scene4,place:bedroom216_scene4
+event:event8_do_homework_on_paper1_scene4,time:57.408,action:put,object:book226_scene4,t_object:desk219_scene4,place:bedroom216_scene4
+event:event9_do_homework_on_paper1_scene4,time:58.719,action:walk,object:chair218_scene4,place:bedroom216_scene4
+event:event10_do_homework_on_paper1_scene4,time:69.966,action:sit,object:chair218_scene4,place:bedroom216_scene4
+event:event11_do_homework_on_paper1_scene4,time:82.317,action:write,object:notes253_scene4,place:bedroom216_scene4

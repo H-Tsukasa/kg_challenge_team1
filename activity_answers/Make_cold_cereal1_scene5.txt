@@ -1,0 +1,13 @@
+event:event0_make_cold_cereal1_scene5,time:6.693,action:walk,object:kitchen112_scene5
+event:event1_make_cold_cereal1_scene5,time:11.453999999999999,action:walk,object:dishbowl167_scene5,place:kitchen112_scene5
+event:event2_make_cold_cereal1_scene5,time:14.559,action:grab,object:dishbowl167_scene5,place:kitchen112_scene5
+event:event3_make_cold_cereal1_scene5,time:20.493,action:walk,object:kitchentable139_scene5,place:kitchen112_scene5
+event:event4_make_cold_cereal1_scene5,time:23.529,action:put,object:dishbowl167_scene5,t_object:kitchentable139_scene5,place:kitchen112_scene5
+event:event5_make_cold_cereal1_scene5,time:28.911,action:walk,object:cereal225_scene5,place:kitchen112_scene5
+event:event6_make_cold_cereal1_scene5,time:32.016,action:grab,object:cereal225_scene5,place:kitchen112_scene5
+event:event7_make_cold_cereal1_scene5,time:36.501,action:walk,object:dishbowl167_scene5,place:kitchen112_scene5
+event:event8_make_cold_cereal1_scene5,time:52.715999999999994,action:pour,object:cereal225_scene5,t_object:dishbowl167_scene5,place:kitchen112_scene5
+event:event9_make_cold_cereal1_scene5,time:56.855999999999995,action:walk,object:milk387_scene5,place:kitchen112_scene5
+event:event10_make_cold_cereal1_scene5,time:59.96099999999999,action:grab,object:milk387_scene5,place:kitchen112_scene5
+event:event11_make_cold_cereal1_scene5,time:64.51499999999999,action:walk,object:dishbowl167_scene5,place:kitchen112_scene5
+event:event12_make_cold_cereal1_scene5,time:80.17799999999998,action:pour,object:milk387_scene5,t_object:dishbowl167_scene5,place:kitchen112_scene5

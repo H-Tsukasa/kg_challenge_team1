@@ -1,0 +1,6 @@
+event:event0_turn_off_light8_scene4,time:9.798,action:walk,object:kitchen11_scene4
+event:event1_turn_off_light8_scene4,time:17.043,action:walk,object:bathroom177_scene4
+event:event2_turn_off_light8_scene4,time:21.804,action:walk,object:lightswitch214_scene4,place:bathroom177_scene4
+event:event3_turn_off_light8_scene4,time:25.185,action:switchOff,object:lightswitch214_scene4,place:bathroom177_scene4
+event:event4_turn_off_light8_scene4,time:30.36,action:walk,object:kitchen11_scene4
+event:event5_turn_off_light8_scene4,time:39.882,action:walk,object:bedroom216_scene4

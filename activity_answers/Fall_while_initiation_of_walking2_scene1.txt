@@ -1,0 +1,4 @@
+event:event0_fall_while_initiation_of_walking2_scene1,time:8.28,action:walk,object:sofa375_scene1,place:livingroom342_scene1
+event:event1_fall_while_initiation_of_walking2_scene1,time:15.800999999999998,action:sit,object:sofa375_scene1,place:livingroom342_scene1
+event:event3_fall_while_initiation_of_walking2_scene1,time:22.976999999999997,action:walk,object:tv433_scene1,place:livingroom342_scene1
+event:event4_fall_while_initiation_of_walking2_scene1,time:35.535,action:walk,object:kitchen209_scene1

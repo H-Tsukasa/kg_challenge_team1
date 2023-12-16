@@ -1,0 +1,7 @@
+event:event0_pick_up_dirty_knife1_scene4,time:6.417,action:walk,object:cutleryknife136_scene4,place:kitchen11_scene4
+event:event1_pick_up_dirty_knife1_scene4,time:9.522,action:grab,object:cutleryknife136_scene4,place:kitchen11_scene4
+event:event2_pick_up_dirty_knife1_scene4,time:12.351,action:walk,object:cutleryknife139_scene4,place:kitchen11_scene4
+event:event3_pick_up_dirty_knife1_scene4,time:15.456000000000001,action:grab,object:cutleryknife139_scene4,place:kitchen11_scene4
+event:event4_pick_up_dirty_knife1_scene4,time:22.563000000000002,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event5_pick_up_dirty_knife1_scene4,time:25.599000000000004,action:put,object:cutleryknife136_scene4,t_object:sink94_scene4,place:kitchen11_scene4
+event:event6_pick_up_dirty_knife1_scene4,time:28.635000000000005,action:put,object:cutleryknife139_scene4,t_object:sink94_scene4,place:kitchen11_scene4

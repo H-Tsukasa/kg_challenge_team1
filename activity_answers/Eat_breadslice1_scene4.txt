@@ -1,0 +1,4 @@
+event:event0_eat_breadslice1_scene4,time:8.28,action:walk,object:kitchen11_scene4
+event:event1_eat_breadslice1_scene4,time:12.902999999999999,action:walk,object:breadslice104_scene4,place:kitchen11_scene4
+event:event2_eat_breadslice1_scene4,time:16.008,action:grab,object:breadslice104_scene4,place:kitchen11_scene4
+event:event3_eat_breadslice1_scene4,time:26.357999999999997,action:eat,object:breadslice104_scene4,place:kitchen11_scene4

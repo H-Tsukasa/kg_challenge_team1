@@ -1,0 +1,7 @@
+event:event0_turn_on_light8_scene5,time:8.901,action:walk,object:kitchen112_scene5
+event:event1_turn_on_light8_scene5,time:15.524999999999999,action:walk,object:livingroom11_scene5
+event:event2_turn_on_light8_scene5,time:22.976999999999997,action:walk,object:bathroom295_scene5
+event:event3_turn_on_light8_scene5,time:28.565999999999995,action:walk,object:door309_scene5,place:bathroom295_scene5
+event:event4_turn_on_light8_scene5,time:31.877999999999993,action:close,object:door309_scene5,place:bathroom295_scene5
+event:event5_turn_on_light8_scene5,time:35.39699999999999,action:walk,object:lightswitch385_scene5,place:bathroom295_scene5
+event:event6_turn_on_light8_scene5,time:41.74499999999999,action:switchOn,object:lightswitch385_scene5,place:bathroom295_scene5

@@ -1,0 +1,12 @@
+event:event0_write_notes1_scene4,time:2.691,action:walk,object:notes253_scene4,place:bedroom216_scene4
+event:event1_write_notes1_scene4,time:5.795999999999999,action:grab,object:notes253_scene4,place:bedroom216_scene4
+event:event2_write_notes1_scene4,time:10.625999999999998,action:walk,object:desk219_scene4,place:bedroom216_scene4
+event:event3_write_notes1_scene4,time:12.212999999999997,action:walk,object:chair218_scene4,place:bedroom216_scene4
+event:event4_write_notes1_scene4,time:20.217,action:sit,object:chair218_scene4,place:bedroom216_scene4
+event:event5_write_notes1_scene4,time:32.016,action:write,object:notes253_scene4,place:bedroom216_scene4
+event:event7_write_notes1_scene4,time:34.914,action:walk,object:desk219_scene4,place:bedroom216_scene4
+event:event8_write_notes1_scene4,time:37.95,action:put,object:notes253_scene4,t_object:desk219_scene4,place:bedroom216_scene4
+event:event9_write_notes1_scene4,time:49.197,action:walk,object:kitchen11_scene4
+event:event10_write_notes1_scene4,time:56.304,action:walk,object:bathroom177_scene4
+event:event11_write_notes1_scene4,time:59.202000000000005,action:walk,object:toilet193_scene4,place:bathroom177_scene4
+event:event12_write_notes1_scene4,time:66.447,action:sit,object:toilet193_scene4,place:bathroom177_scene4

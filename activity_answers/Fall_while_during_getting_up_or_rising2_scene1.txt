@@ -1,0 +1,6 @@
+event:event0_fall_while_during_getting_up_or_rising2_scene1,time:10.280999999999999,action:walk,object:livingroom342_scene1
+event:event1_fall_while_during_getting_up_or_rising2_scene1,time:17.043,action:walk,object:sofa375_scene1,place:livingroom342_scene1
+event:event2_fall_while_during_getting_up_or_rising2_scene1,time:19.044,action:walk,object:pillow428_scene1,place:livingroom342_scene1
+event:event3_fall_while_during_getting_up_or_rising2_scene1,time:22.149,action:grab,object:pillow428_scene1,place:livingroom342_scene1
+event:event4_fall_while_during_getting_up_or_rising2_scene1,time:23.529,action:walk,object:sofa375_scene1,place:livingroom342_scene1
+event:event5_fall_while_during_getting_up_or_rising2_scene1,time:35.466,action:sit,object:sofa375_scene1,place:livingroom342_scene1

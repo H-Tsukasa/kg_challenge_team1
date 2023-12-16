@@ -1,0 +1,3 @@
+event:event0_relax_on_sofa1_scene7,time:9.866999999999999,action:walk,object:livingroom205_scene7
+event:event1_relax_on_sofa1_scene7,time:12.834,action:walk,object:sofa254_scene7,place:livingroom205_scene7
+event:event2_relax_on_sofa1_scene7,time:20.079,action:sit,object:sofa254_scene7,place:livingroom205_scene7

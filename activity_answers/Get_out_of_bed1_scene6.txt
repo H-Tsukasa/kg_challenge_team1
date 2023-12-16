@@ -1,0 +1,8 @@
+event:event0_get_out_of_bed1_scene6,time:5.313,action:walk,object:bed104_scene6,place:bedroom70_scene6
+event:event1_get_out_of_bed1_scene6,time:11.591999999999999,action:sit,object:bed104_scene6,place:bedroom70_scene6
+event:event3_get_out_of_bed1_scene6,time:16.836,action:walk,object:pillow117_scene6,place:bedroom70_scene6
+event:event4_get_out_of_bed1_scene6,time:19.941,action:grab,object:pillow117_scene6,place:bedroom70_scene6
+event:event5_get_out_of_bed1_scene6,time:26.772,action:put,object:pillow117_scene6,place:bedroom70_scene6
+event:event6_get_out_of_bed1_scene6,time:35.19,action:walk,object:lightswitch109_scene6,place:bedroom70_scene6
+event:event7_get_out_of_bed1_scene6,time:38.571,action:switchOn,object:lightswitch109_scene6,place:bedroom70_scene6
+event:event8_get_out_of_bed1_scene6,time:43.331999999999994,action:walk,object:bathroom11_scene6

@@ -1,0 +1,9 @@
+event:event0_pick_up_dirty_waterglass1_scene4,time:6.417,action:walk,object:waterglass144_scene4,place:kitchen11_scene4
+event:event1_pick_up_dirty_waterglass1_scene4,time:9.522,action:grab,object:waterglass144_scene4,place:kitchen11_scene4
+event:event2_pick_up_dirty_waterglass1_scene4,time:12.144,action:walk,object:waterglass145_scene4,place:kitchen11_scene4
+event:event3_pick_up_dirty_waterglass1_scene4,time:15.249,action:grab,object:waterglass145_scene4,place:kitchen11_scene4
+event:event4_pick_up_dirty_waterglass1_scene4,time:22.356,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event5_pick_up_dirty_waterglass1_scene4,time:38.64,action:pour,object:waterglass144_scene4,t_object:sink94_scene4,place:kitchen11_scene4
+event:event6_pick_up_dirty_waterglass1_scene4,time:53.888999999999996,action:pour,object:waterglass145_scene4,t_object:sink94_scene4,place:kitchen11_scene4
+event:event7_pick_up_dirty_waterglass1_scene4,time:56.925,action:put,object:waterglass144_scene4,t_object:sink94_scene4,place:kitchen11_scene4
+event:event8_pick_up_dirty_waterglass1_scene4,time:59.961,action:put,object:waterglass145_scene4,t_object:sink94_scene4,place:kitchen11_scene4

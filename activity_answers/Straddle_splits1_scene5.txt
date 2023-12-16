@@ -1,0 +1,1 @@
+event:event0_straddle_splits1_scene5,time:8.418,action:walk,object:livingroom11_scene5

@@ -1,0 +1,4 @@
+event:event0_place_knife1_scene5,time:5.244,action:walk,object:cutleryknife199_scene5,place:kitchen112_scene5
+event:event1_place_knife1_scene5,time:8.349,action:grab,object:cutleryknife199_scene5,place:kitchen112_scene5
+event:event2_place_knife1_scene5,time:12.627000000000002,action:walk,object:kitchentable139_scene5,place:kitchen112_scene5
+event:event3_place_knife1_scene5,time:15.663000000000002,action:put,object:cutleryknife199_scene5,t_object:kitchentable139_scene5,place:kitchen112_scene5

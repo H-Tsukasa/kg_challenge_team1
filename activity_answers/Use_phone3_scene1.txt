@@ -1,0 +1,12 @@
+event:event0_use_phone3_scene1,time:5.313,action:walk,object:cellphone456_scene1,place:livingroom342_scene1
+event:event1_use_phone3_scene1,time:8.418,action:grab,object:cellphone456_scene1,place:livingroom342_scene1
+event:event2_use_phone3_scene1,time:21.596999999999998,action:walk,object:kitchen209_scene1
+event:event3_use_phone3_scene1,time:30.428999999999995,action:walk,object:bedroom75_scene1
+event:event4_use_phone3_scene1,time:32.843999999999994,action:walk,object:bed112_scene1,place:bedroom75_scene1
+event:event5_use_phone3_scene1,time:43.745999999999995,action:sit,object:bed112_scene1,place:bedroom75_scene1
+event:event6_use_phone3_scene1,time:57.75299999999999,action:text,object:cellphone456_scene1,place:bedroom75_scene1
+event:event8_use_phone3_scene1,time:57.75299999999999,action:walk,object:kitchen209_scene1,place:kitchen209_scene1
+event:event9_use_phone3_scene1,time:57.75299999999999,action:walk,object:livingroom342_scene1,place:livingroom342_scene1
+event:event10_use_phone3_scene1,time:76.383,action:walk,object:sofa375_scene1
+event:event11_use_phone3_scene1,time:83.214,action:sit,object:sofa375_scene1,place:livingroom342_scene1
+event:event12_use_phone3_scene1,time:96.876,action:text,object:cellphone456_scene1,place:livingroom342_scene1

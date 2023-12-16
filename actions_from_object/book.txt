@@ -1,0 +1,8 @@
+He read book.
+He grab book.
+He close book.
+He open book.
+He find book.
+He fold book.
+He throw book.
+He touch book.

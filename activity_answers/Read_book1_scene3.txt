@@ -1,0 +1,6 @@
+event:event0_read_book1_scene3,time:12.902999999999999,action:walk,object:livingroom194_scene3
+event:event1_read_book1_scene3,time:17.112,action:walk,object:book233_scene3,place:livingroom194_scene3
+event:event2_read_book1_scene3,time:20.217,action:grab,object:book233_scene3,place:livingroom194_scene3
+event:event3_read_book1_scene3,time:24.15,action:walk,object:sofa224_scene3,place:livingroom194_scene3
+event:event4_read_book1_scene3,time:30.429,action:sit,object:sofa224_scene3,place:livingroom194_scene3
+event:event5_read_book1_scene3,time:43.952999999999996,action:read,object:book233_scene3,place:livingroom194_scene3

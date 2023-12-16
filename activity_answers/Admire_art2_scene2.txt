@@ -1,0 +1,4 @@
+event:event0_admire_art2_scene2,time:7.59,action:walk,object:kitchen51_scene2
+event:event1_admire_art2_scene2,time:14.283,action:walk,object:wallpictureframe116_scene2,place:kitchen51_scene2
+event:event2_admire_art2_scene2,time:14.283,action:turnTo,object:wallpictureframe116_scene2,place:kitchen51_scene2
+event:event3_admire_art2_scene2,time:14.283,action:lookAt,object:wallpictureframe116_scene2,place:kitchen51_scene2

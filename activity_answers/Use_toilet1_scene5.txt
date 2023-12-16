@@ -1,0 +1,5 @@
+event:event0_use_toilet1_scene5,time:5.451,action:walk,object:kitchen112_scene5
+event:event1_use_toilet1_scene5,time:12.143999999999998,action:walk,object:livingroom11_scene5
+event:event2_use_toilet1_scene5,time:19.526999999999997,action:walk,object:bathroom295_scene5
+event:event3_use_toilet1_scene5,time:23.115,action:walk,object:toilet315_scene5,place:bathroom295_scene5
+event:event4_use_toilet1_scene5,time:30.36,action:sit,object:toilet315_scene5,place:bathroom295_scene5

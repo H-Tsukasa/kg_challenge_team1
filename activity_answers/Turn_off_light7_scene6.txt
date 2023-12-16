@@ -1,0 +1,3 @@
+event:event0_turn_off_light7_scene6,time:8.487,action:walk,object:bedroom70_scene6
+event:event1_turn_off_light7_scene6,time:13.869,action:walk,object:lightswitch109_scene6,place:bedroom70_scene6
+event:event2_turn_off_light7_scene6,time:17.25,action:switchOff,object:lightswitch109_scene6,place:bedroom70_scene6

@@ -1,0 +1,12 @@
+event:event0_put_groceries_in_fridge21_scene7,time:6.209999999999999,action:walk,object:plate99_scene7,place:kitchen56_scene7
+event:event1_put_groceries_in_fridge21_scene7,time:9.315,action:grab,object:plate99_scene7,place:kitchen56_scene7
+event:event2_put_groceries_in_fridge21_scene7,time:17.25,action:walk,object:fridge168_scene7,place:kitchen56_scene7
+event:event3_put_groceries_in_fridge21_scene7,time:20.561999999999998,action:open,object:fridge168_scene7,place:kitchen56_scene7
+event:event4_put_groceries_in_fridge21_scene7,time:20.561999999999998,action:turnTo,object:fridge168_scene7,place:kitchen56_scene7
+event:event5_put_groceries_in_fridge21_scene7,time:23.598,action:putIn,object:plate99_scene7,t_object:fridge168_scene7,place:kitchen56_scene7
+event:event6_put_groceries_in_fridge21_scene7,time:31.188,action:walk,object:cupcake176_scene7,place:kitchen56_scene7
+event:event7_put_groceries_in_fridge21_scene7,time:34.293,action:grab,object:cupcake176_scene7,place:kitchen56_scene7
+event:event8_put_groceries_in_fridge21_scene7,time:41.745,action:walk,object:fridge168_scene7,place:kitchen56_scene7
+event:event9_put_groceries_in_fridge21_scene7,time:41.745,action:turnTo,object:fridge168_scene7,place:kitchen56_scene7
+event:event10_put_groceries_in_fridge21_scene7,time:44.781,action:putIn,object:cupcake176_scene7,t_object:fridge168_scene7,place:kitchen56_scene7
+event:event11_put_groceries_in_fridge21_scene7,time:48.092999999999996,action:close,object:fridge168_scene7,place:kitchen56_scene7

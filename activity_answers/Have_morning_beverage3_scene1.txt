@@ -1,0 +1,15 @@
+event:event0_have_morning_beverage3_scene1,time:9.177,action:walk,object:bedroom75_scene1
+event:event1_have_morning_beverage3_scene1,time:17.939999999999998,action:walk,object:kitchen209_scene1
+event:event2_have_morning_beverage3_scene1,time:24.357,action:walk,object:milk341_scene1,place:kitchen209_scene1
+event:event3_have_morning_beverage3_scene1,time:27.462,action:grab,object:milk341_scene1,place:kitchen209_scene1
+event:event4_have_morning_beverage3_scene1,time:37.053,action:drink,object:milk341_scene1,place:kitchen209_scene1
+event:event5_have_morning_beverage3_scene1,time:44.090999999999994,action:put,object:milk341_scene1,place:kitchen209_scene1
+event:event6_have_morning_beverage3_scene1,time:48.437999999999995,action:walk,object:waterglass272_scene1,place:kitchen209_scene1
+event:event7_have_morning_beverage3_scene1,time:51.54299999999999,action:grab,object:waterglass272_scene1,place:kitchen209_scene1
+event:event8_have_morning_beverage3_scene1,time:58.718999999999994,action:walk,object:faucet250_scene1,place:kitchen209_scene1
+event:event9_have_morning_beverage3_scene1,time:62.099999999999994,action:switchOn,object:faucet250_scene1,place:kitchen209_scene1
+event:event10_have_morning_beverage3_scene1,time:77.00399999999999,action:soak,object:waterglass272_scene1,place:kitchen209_scene1
+event:event11_have_morning_beverage3_scene1,time:80.38499999999999,action:switchOff,object:faucet250_scene1,place:kitchen209_scene1
+event:event12_have_morning_beverage3_scene1,time:90.87299999999999,action:drink,object:waterglass272_scene1,place:kitchen209_scene1
+event:event13_have_morning_beverage3_scene1,time:104.81099999999999,action:put,object:waterglass272_scene1,place:kitchen209_scene1
+event:event14_have_morning_beverage3_scene1,time:112.60799999999999,action:walk,object:livingroom342_scene1

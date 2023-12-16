@@ -1,0 +1,8 @@
+event:event0_get_out_of_bed1_scene5,time:2.829,action:walk,object:bed293_scene5,place:bedroom231_scene5
+event:event1_get_out_of_bed1_scene5,time:11.937,action:sit,object:bed293_scene5,place:bedroom231_scene5
+event:event3_get_out_of_bed1_scene5,time:17.043,action:walk,object:pillow257_scene5,place:bedroom231_scene5
+event:event4_get_out_of_bed1_scene5,time:20.148,action:grab,object:pillow257_scene5,place:bedroom231_scene5
+event:event5_get_out_of_bed1_scene5,time:27.048000000000002,action:put,object:pillow257_scene5,place:bedroom231_scene5
+event:event6_get_out_of_bed1_scene5,time:32.016000000000005,action:walk,object:lightswitch268_scene5,place:bedroom231_scene5
+event:event7_get_out_of_bed1_scene5,time:35.397000000000006,action:switchOn,object:lightswitch268_scene5,place:bedroom231_scene5
+event:event8_get_out_of_bed1_scene5,time:50.43900000000001,action:walk,object:bathroom295_scene5

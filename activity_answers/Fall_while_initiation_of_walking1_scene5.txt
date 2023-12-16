@@ -1,0 +1,2 @@
+event:event0_fall_while_initiation_of_walking1_scene5,time:5.658,action:walk,object:kitchentable139_scene5,place:kitchen112_scene5
+event:event1_fall_while_initiation_of_walking1_scene5,time:8.280000000000001,action:turnTo,object:microwave163_scene5,place:kitchen112_scene5

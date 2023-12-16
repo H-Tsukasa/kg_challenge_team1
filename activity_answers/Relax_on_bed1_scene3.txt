@@ -1,0 +1,4 @@
+event:event0_relax_on_bed1_scene3,time:10.142999999999999,action:walk,object:kitchen11_scene3
+event:event1_relax_on_bed1_scene3,time:19.181999999999995,action:walk,object:bedroom358_scene3
+event:event2_relax_on_bed1_scene3,time:21.320999999999994,action:walk,object:bed407_scene3,place:bedroom358_scene3
+event:event3_relax_on_bed1_scene3,time:29.669999999999995,action:sit,object:bed407_scene3,place:bedroom358_scene3

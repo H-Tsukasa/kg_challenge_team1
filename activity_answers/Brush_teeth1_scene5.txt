@@ -1,0 +1,16 @@
+event:event0_brush_teeth1_scene5,time:6.554999999999999,action:walk,object:kitchen112_scene5
+event:event1_brush_teeth1_scene5,time:13.178999999999998,action:walk,object:livingroom11_scene5
+event:event2_brush_teeth1_scene5,time:20.561999999999998,action:walk,object:bathroom295_scene5
+event:event3_brush_teeth1_scene5,time:24.977999999999998,action:walk,object:toothbrush371_scene5,place:bathroom295_scene5
+event:event4_brush_teeth1_scene5,time:28.083,action:grab,object:toothbrush371_scene5,place:bathroom295_scene5
+event:event5_brush_teeth1_scene5,time:29.256,action:walk,object:toothpaste377_scene5,place:bathroom295_scene5
+event:event6_brush_teeth1_scene5,time:32.361,action:grab,object:toothpaste377_scene5,place:bathroom295_scene5
+event:event7_brush_teeth1_scene5,time:53.199,action:squeeze,object:toothpaste377_scene5,place:bathroom295_scene5
+event:event8_brush_teeth1_scene5,time:59.271,action:put,object:toothpaste377_scene5,place:bathroom295_scene5
+event:event9_brush_teeth1_scene5,time:77.832,action:brush,object:toothbrush371_scene5,place:bathroom295_scene5
+event:event10_brush_teeth1_scene5,time:80.178,action:walk,object:faucet319_scene5,place:bathroom295_scene5
+event:event11_brush_teeth1_scene5,time:83.559,action:switchOn,object:faucet319_scene5,place:bathroom295_scene5
+event:event12_brush_teeth1_scene5,time:98.463,action:soak,object:toothbrush371_scene5,place:bathroom295_scene5
+event:event13_brush_teeth1_scene5,time:114.88499999999999,action:rinse,object:toothbrush371_scene5,place:bathroom295_scene5
+event:event14_brush_teeth1_scene5,time:118.335,action:switchOff,object:faucet319_scene5,place:bathroom295_scene5
+event:event15_brush_teeth1_scene5,time:124.68299999999999,action:put,object:toothbrush371_scene5,place:bathroom295_scene5

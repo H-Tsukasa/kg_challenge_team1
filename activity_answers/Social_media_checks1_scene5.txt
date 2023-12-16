@@ -1,0 +1,9 @@
+event:event0_social_media_checks1_scene5,time:6.968999999999999,action:walk,object:computer109_scene5,place:livingroom11_scene5
+event:event1_social_media_checks1_scene5,time:10.35,action:switchOn,object:computer109_scene5,place:livingroom11_scene5
+event:event2_social_media_checks1_scene5,time:18.975,action:sit,object:chair26_scene5,place:livingroom11_scene5
+event:event3_social_media_checks1_scene5,time:38.364000000000004,action:type,object:keyboard104_scene5,place:livingroom11_scene5
+event:event5_social_media_checks1_scene5,time:46.782000000000004,action:switchOff,object:computer109_scene5,place:livingroom11_scene5
+event:event6_social_media_checks1_scene5,time:52.233000000000004,action:walk,object:kitchen112_scene5
+event:event7_social_media_checks1_scene5,time:58.788000000000004,action:walk,object:breadslice160_scene5,place:kitchen112_scene5
+event:event8_social_media_checks1_scene5,time:61.893,action:grab,object:breadslice160_scene5,place:kitchen112_scene5
+event:event9_social_media_checks1_scene5,time:73.002,action:eat,object:breadslice160_scene5,place:kitchen112_scene5

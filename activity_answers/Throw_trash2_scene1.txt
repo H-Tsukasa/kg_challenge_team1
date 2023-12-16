@@ -1,0 +1,7 @@
+event:event0_throw_trash2_scene1,time:2.415,action:walk,object:potato465_scene1,place:kitchen209_scene1
+event:event1_throw_trash2_scene1,time:5.52,action:grab,object:potato465_scene1,place:kitchen209_scene1
+event:event2_throw_trash2_scene1,time:11.109,action:walk,object:salad318_scene1,place:kitchen209_scene1
+event:event3_throw_trash2_scene1,time:14.214,action:grab,object:salad318_scene1,place:kitchen209_scene1
+event:event4_throw_trash2_scene1,time:19.803,action:walk,object:garbagecan106_scene1,place:bedroom75_scene1
+event:event5_throw_trash2_scene1,time:22.839000000000002,action:put,object:potato465_scene1,t_object:garbagecan106_scene1,place:kitchen209_scene1
+event:event6_throw_trash2_scene1,time:25.875000000000004,action:put,object:salad318_scene1,t_object:garbagecan106_scene1,place:kitchen209_scene1

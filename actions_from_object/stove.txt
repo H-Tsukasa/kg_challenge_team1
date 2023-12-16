@@ -1,0 +1,9 @@
+He turn to stove.
+He grab stove.
+He switch off stove.
+He switch on stove.
+He wipe stove.
+He close stove.
+He open stove.
+He put in stove.
+He scrub stove.

@@ -1,0 +1,5 @@
+event:event0_fall_while_walking_forward1_scene1,time:8.072999999999999,action:walk,object:kitchen209_scene1
+event:event1_fall_while_walking_forward1_scene1,time:13.11,action:walk,object:fridge308_scene1,place:kitchen209_scene1
+event:event2_fall_while_walking_forward1_scene1,time:16.421999999999997,action:open,object:fridge308_scene1,place:kitchen209_scene1
+event:event3_fall_while_walking_forward1_scene1,time:19.733999999999995,action:close,object:fridge308_scene1,place:kitchen209_scene1
+event:event4_fall_while_walking_forward1_scene1,time:34.08599999999999,action:walk,object:livingroom342_scene1

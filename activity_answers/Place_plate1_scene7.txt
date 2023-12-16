@@ -1,0 +1,7 @@
+event:event0_place_plate1_scene7,time:5.244,action:walk,object:plate99_scene7,place:kitchen56_scene7
+event:event1_place_plate1_scene7,time:8.349,action:grab,object:plate99_scene7,place:kitchen56_scene7
+event:event2_place_plate1_scene7,time:8.349,action:walk,object:plate100_scene7,place:kitchen56_scene7
+event:event3_place_plate1_scene7,time:11.454,action:grab,object:plate100_scene7,place:kitchen56_scene7
+event:event4_place_plate1_scene7,time:19.044,action:walk,object:kitchentable133_scene7,place:kitchen56_scene7
+event:event5_place_plate1_scene7,time:24.978,action:put,object:plate99_scene7,t_object:kitchentable133_scene7,place:kitchen56_scene7
+event:event6_place_plate1_scene7,time:28.083000000000002,action:put,object:plate100_scene7,t_object:kitchentable133_scene7,place:kitchen56_scene7

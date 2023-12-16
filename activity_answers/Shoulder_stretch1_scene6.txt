@@ -1,0 +1,2 @@
+event:event0_shoulder_stretch1_scene6,time:6.693,action:walk,object:bedroom70_scene6
+event:event1_shoulder_stretch1_scene6,time:15.456,action:walk,object:livingroom260_scene6

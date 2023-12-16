@@ -1,0 +1,4 @@
+event:event0_place_fork1_scene7,time:7.037999999999999,action:walk,object:cutleryfork123_scene7,place:kitchen56_scene7
+event:event1_place_fork1_scene7,time:10.142999999999999,action:grab,object:cutleryfork123_scene7,place:kitchen56_scene7
+event:event2_place_fork1_scene7,time:17.525999999999996,action:walk,object:kitchentable133_scene7,place:kitchen56_scene7
+event:event3_place_fork1_scene7,time:23.459999999999994,action:put,object:cutleryfork123_scene7,t_object:kitchentable133_scene7,place:kitchen56_scene7

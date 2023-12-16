@@ -1,0 +1,4 @@
+event:event0_relax_on_sofa1_scene6,time:8.763,action:walk,object:bedroom70_scene6
+event:event1_relax_on_sofa1_scene6,time:17.112,action:walk,object:livingroom260_scene6
+event:event2_relax_on_sofa1_scene6,time:22.701,action:walk,object:sofa293_scene6,place:livingroom260_scene6
+event:event3_relax_on_sofa1_scene6,time:29.739,action:sit,object:sofa293_scene6,place:livingroom260_scene6

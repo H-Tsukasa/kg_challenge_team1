@@ -1,0 +1,4 @@
+event:event0_walk_with_memory_loss6_scene2,time:11.384999999999998,action:walk,object:livingroom274_scene2
+event:event1_walk_with_memory_loss6_scene2,time:19.733999999999995,action:walk,object:sofa301_scene2,place:livingroom274_scene2
+event:event2_walk_with_memory_loss6_scene2,time:27.254999999999995,action:walk,object:tv313_scene2,place:livingroom274_scene2
+event:event3_walk_with_memory_loss6_scene2,time:34.086,action:walk,object:sofa301_scene2,place:livingroom274_scene2

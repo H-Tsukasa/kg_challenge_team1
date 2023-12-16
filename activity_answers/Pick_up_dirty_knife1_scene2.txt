@@ -1,0 +1,4 @@
+event:event0_pick_up_dirty_knife1_scene2,time:5.658,action:walk,object:cutleryknife85_scene2,place:kitchen51_scene2
+event:event1_pick_up_dirty_knife1_scene2,time:8.763,action:grab,object:cutleryknife85_scene2,place:kitchen51_scene2
+event:event2_pick_up_dirty_knife1_scene2,time:12.282,action:walk,object:sink149_scene2,place:kitchen51_scene2
+event:event3_pick_up_dirty_knife1_scene2,time:15.318,action:put,object:cutleryknife85_scene2,t_object:sink149_scene2,place:kitchen51_scene2

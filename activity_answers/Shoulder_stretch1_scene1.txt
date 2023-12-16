@@ -1,0 +1,3 @@
+event:event0_shoulder_stretch1_scene1,time:9.729000000000001,action:walk,object:bedroom75_scene1
+event:event1_shoulder_stretch1_scene1,time:18.285000000000004,action:walk,object:kitchen209_scene1
+event:event2_shoulder_stretch1_scene1,time:30.360000000000003,action:walk,object:livingroom342_scene1

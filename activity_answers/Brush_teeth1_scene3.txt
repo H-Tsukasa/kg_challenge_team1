@@ -1,0 +1,14 @@
+event:event0_brush_teeth1_scene3,time:6.968999999999999,action:walk,object:bathroom297_scene3
+event:event1_brush_teeth1_scene3,time:11.591999999999999,action:walk,object:toothbrush352_scene3,place:bathroom297_scene3
+event:event2_brush_teeth1_scene3,time:14.697,action:grab,object:toothbrush352_scene3,place:bathroom297_scene3
+event:event3_brush_teeth1_scene3,time:16.352999999999998,action:walk,object:toothpaste349_scene3,place:bathroom297_scene3
+event:event4_brush_teeth1_scene3,time:19.458,action:grab,object:toothpaste349_scene3,place:bathroom297_scene3
+event:event5_brush_teeth1_scene3,time:41.952,action:squeeze,object:toothpaste349_scene3,place:bathroom297_scene3
+event:event6_brush_teeth1_scene3,time:48.921,action:put,object:toothpaste349_scene3,place:bathroom297_scene3
+event:event7_brush_teeth1_scene3,time:66.585,action:brush,object:toothbrush352_scene3,place:bathroom297_scene3
+event:event8_brush_teeth1_scene3,time:70.17299999999999,action:walk,object:faucet339_scene3,place:bathroom297_scene3
+event:event9_brush_teeth1_scene3,time:73.55399999999999,action:switchOn,object:faucet339_scene3,place:bathroom297_scene3
+event:event10_brush_teeth1_scene3,time:87.21599999999998,action:soak,object:toothbrush352_scene3,place:bathroom297_scene3
+event:event11_brush_teeth1_scene3,time:103.63799999999998,action:rinse,object:toothbrush352_scene3,place:bathroom297_scene3
+event:event12_brush_teeth1_scene3,time:107.01899999999998,action:switchOff,object:faucet339_scene3,place:bathroom297_scene3
+event:event13_brush_teeth1_scene3,time:114.12599999999998,action:put,object:toothbrush352_scene3,place:bathroom297_scene3

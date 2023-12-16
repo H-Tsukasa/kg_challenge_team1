@@ -1,0 +1,17 @@
+event:event0_put_groceries_in_fridge23_scene4,time:0.897,action:walk,object:milk46_scene4,place:kitchen11_scene4
+event:event1_put_groceries_in_fridge23_scene4,time:4.002,action:grab,object:milk46_scene4,place:kitchen11_scene4
+event:event2_put_groceries_in_fridge23_scene4,time:10.833,action:put,object:milk46_scene4,place:kitchen11_scene4
+event:event3_put_groceries_in_fridge23_scene4,time:21.665999999999997,action:walk,object:bathroom177_scene4
+event:event4_put_groceries_in_fridge23_scene4,time:26.426999999999996,action:walk,object:towel211_scene4,place:bathroom177_scene4
+event:event5_put_groceries_in_fridge23_scene4,time:29.531999999999996,action:grab,object:towel211_scene4,place:bathroom177_scene4
+event:event6_put_groceries_in_fridge23_scene4,time:38.019,action:walk,object:kitchen11_scene4
+event:event7_put_groceries_in_fridge23_scene4,time:44.297999999999995,action:walk,object:milk46_scene4,place:kitchen11_scene4
+event:event8_put_groceries_in_fridge23_scene4,time:47.40299999999999,action:grab,object:milk46_scene4,place:kitchen11_scene4
+event:event9_put_groceries_in_fridge23_scene4,time:68.79299999999999,action:scrub,object:milk46_scene4,t_object:towel211_scene4,place:kitchen11_scene4
+event:event10_put_groceries_in_fridge23_scene4,time:71.484,action:walk,object:kitchentable76_scene4,place:kitchen11_scene4
+event:event11_put_groceries_in_fridge23_scene4,time:74.52,action:put,object:towel211_scene4,t_object:kitchentable76_scene4,place:kitchen11_scene4
+event:event12_put_groceries_in_fridge23_scene4,time:83.00699999999999,action:walk,object:fridge107_scene4,place:kitchen11_scene4
+event:event13_put_groceries_in_fridge23_scene4,time:86.31899999999999,action:open,object:fridge107_scene4,place:kitchen11_scene4
+event:event14_put_groceries_in_fridge23_scene4,time:86.31899999999999,action:turnTo,object:fridge107_scene4,place:kitchen11_scene4
+event:event15_put_groceries_in_fridge23_scene4,time:89.35499999999999,action:putIn,object:milk46_scene4,t_object:fridge107_scene4,place:kitchen11_scene4
+event:event16_put_groceries_in_fridge23_scene4,time:92.66699999999999,action:close,object:fridge107_scene4,place:kitchen11_scene4

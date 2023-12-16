@@ -1,0 +1,4 @@
+event:event0_pick_up_dirty_dishes1_scene5,time:6.9,action:walk,object:plate201_scene5,place:kitchen112_scene5
+event:event1_pick_up_dirty_dishes1_scene5,time:10.005,action:grab,object:plate201_scene5,place:kitchen112_scene5
+event:event2_pick_up_dirty_dishes1_scene5,time:12.834000000000001,action:walk,object:sink152_scene5,place:kitchen112_scene5
+event:event3_pick_up_dirty_dishes1_scene5,time:15.870000000000001,action:put,object:plate201_scene5,t_object:sink152_scene5,place:kitchen112_scene5

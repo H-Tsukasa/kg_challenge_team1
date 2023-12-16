@@ -1,0 +1,4 @@
+event:event0_fold_clothespants1_scene1,time:6.348,action:walk,object:clothespants134_scene1,place:bedroom75_scene1
+event:event1_fold_clothespants1_scene1,time:9.453,action:grab,object:clothespants134_scene1,place:bedroom75_scene1
+event:event2_fold_clothespants1_scene1,time:18.423,action:walk,object:bed112_scene1,place:bedroom75_scene1
+event:event4_fold_clothespants1_scene1,time:21.459,action:put,object:clothespants134_scene1,t_object:bed112_scene1,place:bedroom75_scene1

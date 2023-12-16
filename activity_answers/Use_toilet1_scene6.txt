@@ -1,0 +1,3 @@
+event:event0_use_toilet1_scene6,time:6.968999999999999,action:walk,object:bathroom11_scene6
+event:event1_use_toilet1_scene6,time:11.937,action:walk,object:toilet46_scene6,place:bathroom11_scene6
+event:event2_use_toilet1_scene6,time:18.974999999999998,action:sit,object:toilet46_scene6,place:bathroom11_scene6

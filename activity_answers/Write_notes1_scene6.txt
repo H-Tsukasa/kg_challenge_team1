@@ -1,0 +1,12 @@
+event:event0_write_notes1_scene6,time:19.733999999999998,action:walk,object:paper352_scene6
+event:event1_write_notes1_scene6,time:22.839,action:grab,object:paper352_scene6,place:livingroom260_scene6
+event:event2_write_notes1_scene6,time:26.150999999999996,action:walk,object:desk296_scene6,place:livingroom260_scene6
+event:event3_write_notes1_scene6,time:27.254999999999995,action:walk,object:chair297_scene6,place:livingroom260_scene6
+event:event4_write_notes1_scene6,time:36.846,action:sit,object:chair297_scene6,place:livingroom260_scene6
+event:event5_write_notes1_scene6,time:47.81699999999999,action:write,object:paper352_scene6,place:livingroom260_scene6
+event:event7_write_notes1_scene6,time:51.19799999999999,action:walk,object:desk296_scene6,place:livingroom260_scene6
+event:event8_write_notes1_scene6,time:54.233999999999995,action:put,object:paper352_scene6,t_object:desk296_scene6,place:livingroom260_scene6
+event:event9_write_notes1_scene6,time:63.065999999999995,action:walk,object:bedroom70_scene6
+event:event10_write_notes1_scene6,time:69.69,action:walk,object:bathroom11_scene6
+event:event11_write_notes1_scene6,time:74.79599999999999,action:walk,object:toilet46_scene6,place:bathroom11_scene6
+event:event12_write_notes1_scene6,time:83.35199999999999,action:sit,object:toilet46_scene6,place:bathroom11_scene6

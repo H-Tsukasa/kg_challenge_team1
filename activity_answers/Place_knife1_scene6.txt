@@ -1,0 +1,7 @@
+event:event0_place_knife1_scene6,time:4.14,action:walk,object:cutleryknife217_scene6,place:kitchen161_scene6
+event:event1_place_knife1_scene6,time:7.244999999999999,action:grab,object:cutleryknife217_scene6,place:kitchen161_scene6
+event:event2_place_knife1_scene6,time:12.834,action:walk,object:cutleryknife221_scene6,place:kitchen161_scene6
+event:event3_place_knife1_scene6,time:15.939,action:grab,object:cutleryknife221_scene6,place:kitchen161_scene6
+event:event4_place_knife1_scene6,time:19.044,action:walk,object:kitchentable185_scene6,place:kitchen161_scene6
+event:event5_place_knife1_scene6,time:22.080000000000002,action:put,object:cutleryknife217_scene6,t_object:kitchentable185_scene6,place:kitchen161_scene6
+event:event6_place_knife1_scene6,time:25.116000000000003,action:put,object:cutleryknife221_scene6,t_object:kitchentable185_scene6,place:kitchen161_scene6

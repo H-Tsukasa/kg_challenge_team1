@@ -1,0 +1,15 @@
+event:event0_cook_potato_using_stove1_scene3,time:11.937,action:walk,object:kitchen11_scene3
+event:event1_cook_potato_using_stove1_scene3,time:17.043,action:walk,object:potato424_scene3,place:kitchen11_scene3
+event:event2_cook_potato_using_stove1_scene3,time:20.148,action:grab,object:potato424_scene3,place:kitchen11_scene3
+event:event3_cook_potato_using_stove1_scene3,time:27.531,action:walk,object:sink158_scene3,place:kitchen11_scene3
+event:event4_cook_potato_using_stove1_scene3,time:33.534,action:switchOn,object:faucet159_scene3,place:kitchen11_scene3
+event:event5_cook_potato_using_stove1_scene3,time:48.852,action:soak,object:potato424_scene3,place:kitchen11_scene3
+event:event6_cook_potato_using_stove1_scene3,time:52.233,action:switchOff,object:faucet159_scene3,place:kitchen11_scene3
+event:event7_cook_potato_using_stove1_scene3,time:56.303999999999995,action:walk,object:fryingpan62_scene3,place:kitchen11_scene3
+event:event8_cook_potato_using_stove1_scene3,time:59.339999999999996,action:put,object:potato424_scene3,t_object:fryingpan62_scene3,place:kitchen11_scene3
+event:event9_cook_potato_using_stove1_scene3,time:64.446,action:walk,object:milk183_scene3,place:kitchen11_scene3
+event:event10_cook_potato_using_stove1_scene3,time:67.551,action:grab,object:milk183_scene3,place:kitchen11_scene3
+event:event11_cook_potato_using_stove1_scene3,time:73.485,action:walk,object:fryingpan62_scene3,place:kitchen11_scene3
+event:event12_cook_potato_using_stove1_scene3,time:88.527,action:pour,object:milk183_scene3,t_object:fryingpan62_scene3,place:kitchen11_scene3
+event:event13_cook_potato_using_stove1_scene3,time:91.839,action:switchOn,object:stove166_scene3,place:kitchen11_scene3
+event:event14_cook_potato_using_stove1_scene3,time:95.151,action:switchOff,object:stove166_scene3,place:kitchen11_scene3

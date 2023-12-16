@@ -1,0 +1,6 @@
+event:event0_clean_stove1_scene4,time:5.658,action:walk,object:stove109_scene4,place:kitchen11_scene4
+event:event1_clean_stove1_scene4,time:9.177,action:walk,object:washingsponge115_scene4,place:kitchen11_scene4
+event:event2_clean_stove1_scene4,time:12.282,action:grab,object:washingsponge115_scene4,place:kitchen11_scene4
+event:event3_clean_stove1_scene4,time:16.629,action:walk,object:stove109_scene4,place:kitchen11_scene4
+event:event4_clean_stove1_scene4,time:16.629,action:turnTo,object:stove109_scene4,place:kitchen11_scene4
+event:event5_clean_stove1_scene4,time:35.604,action:wipe,object:washingsponge115_scene4,t_object:stove109_scene4,place:kitchen11_scene4

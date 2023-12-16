@@ -1,0 +1,5 @@
+He turn to kitchen.
+He wipe kitchen.
+He close kitchen.
+He open kitchen.
+He scrub kitchen.

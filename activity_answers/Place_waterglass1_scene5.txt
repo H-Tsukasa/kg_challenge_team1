@@ -1,0 +1,4 @@
+event:event0_place_waterglass1_scene5,time:4.968,action:walk,object:waterglass198_scene5,place:kitchen112_scene5
+event:event1_place_waterglass1_scene5,time:8.073,action:grab,object:waterglass198_scene5,place:kitchen112_scene5
+event:event2_place_waterglass1_scene5,time:14.283,action:walk,object:kitchentable139_scene5,place:kitchen112_scene5
+event:event3_place_waterglass1_scene5,time:17.319,action:put,object:waterglass198_scene5,t_object:kitchentable139_scene5,place:kitchen112_scene5

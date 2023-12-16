@@ -1,0 +1,8 @@
+event:event0_rinse_toothbrush1_scene6,time:4.968,action:walk,object:toothbrush57_scene6,place:bathroom11_scene6
+event:event1_rinse_toothbrush1_scene6,time:8.073,action:grab,object:toothbrush57_scene6,place:bathroom11_scene6
+event:event2_rinse_toothbrush1_scene6,time:9.384,action:walk,object:faucet38_scene6,place:bathroom11_scene6
+event:event3_rinse_toothbrush1_scene6,time:12.765,action:switchOn,object:faucet38_scene6,place:bathroom11_scene6
+event:event4_rinse_toothbrush1_scene6,time:26.841,action:soak,object:toothbrush57_scene6,place:bathroom11_scene6
+event:event5_rinse_toothbrush1_scene6,time:43.263000000000005,action:rinse,object:toothbrush57_scene6,place:bathroom11_scene6
+event:event6_rinse_toothbrush1_scene6,time:46.71300000000001,action:switchOff,object:faucet38_scene6,place:bathroom11_scene6
+event:event7_rinse_toothbrush1_scene6,time:52.854000000000006,action:put,object:toothbrush57_scene6,place:bathroom11_scene6

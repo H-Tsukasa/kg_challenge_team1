@@ -1,0 +1,3 @@
+event:event1_fall_while_standing_quietly1_scene5,time:3.105,action:grab,object:book86_scene5,place:livingroom11_scene5
+event:event2_fall_while_standing_quietly1_scene5,time:6.21,action:grab,object:book87_scene5,place:livingroom11_scene5
+event:event3_fall_while_standing_quietly1_scene5,time:9.177,action:turnTo,object:sofa25_scene5,place:livingroom11_scene5

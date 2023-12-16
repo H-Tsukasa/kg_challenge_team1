@@ -1,0 +1,3 @@
+event:event0_stand_on_coffee_table1_scene1,time:7.59,action:walk,object:livingroom342_scene1
+event:event1_stand_on_coffee_table1_scene1,time:10.902,action:walk,object:coffeetable378_scene1,place:livingroom342_scene1
+event:event2_stand_on_coffee_table1_scene1,time:19.250999999999998,action:climb,object:coffeetable378_scene1,place:livingroom342_scene1

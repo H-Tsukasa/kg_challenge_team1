@@ -1,0 +1,10 @@
+event:event0_put_away_groceries_from_fridge3_scene6,time:3.657,action:walk,object:fridge240_scene6,place:kitchen161_scene6
+event:event1_put_away_groceries_from_fridge3_scene6,time:7.038,action:open,object:fridge240_scene6,place:kitchen161_scene6
+event:event2_put_away_groceries_from_fridge3_scene6,time:10.143,action:find,object:carrot352_scene6,place:kitchen161_scene6
+event:event3_put_away_groceries_from_fridge3_scene6,time:16.215,action:grab,object:carrot352_scene6,place:kitchen161_scene6
+event:event4_put_away_groceries_from_fridge3_scene6,time:19.251,action:walk,object:kitchentable185_scene6,place:kitchen161_scene6
+event:event5_put_away_groceries_from_fridge3_scene6,time:24.702,action:put,object:carrot352_scene6,t_object:kitchentable185_scene6,place:kitchen161_scene6
+event:event6_put_away_groceries_from_fridge3_scene6,time:27.807000000000002,action:walk,object:fridge240_scene6,place:kitchen161_scene6
+event:event7_put_away_groceries_from_fridge3_scene6,time:31.119,action:find,object:potato353_scene6,place:kitchen161_scene6
+event:event8_put_away_groceries_from_fridge3_scene6,time:37.122,action:grab,object:potato353_scene6,place:kitchen161_scene6
+event:event9_put_away_groceries_from_fridge3_scene6,time:40.158,action:close,object:fridge240_scene6,place:kitchen161_scene6

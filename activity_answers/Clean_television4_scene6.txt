@@ -1,0 +1,10 @@
+event:event0_clean_television4_scene6,time:4.14,action:walk,object:tv327_scene6,place:livingroom260_scene6
+event:event1_clean_television4_scene6,time:15.869999999999997,action:walk,object:bedroom70_scene6
+event:event2_clean_television4_scene6,time:22.424999999999997,action:walk,object:bathroom11_scene6
+event:event3_clean_television4_scene6,time:27.875999999999998,action:walk,object:towel49_scene6,place:bathroom11_scene6
+event:event4_clean_television4_scene6,time:30.980999999999998,action:grab,object:towel49_scene6,place:bathroom11_scene6
+event:event5_clean_television4_scene6,time:38.916,action:walk,object:bedroom70_scene6
+event:event6_clean_television4_scene6,time:47.61,action:walk,object:livingroom260_scene6
+event:event7_clean_television4_scene6,time:54.165,action:walk,object:tv327_scene6,place:livingroom260_scene6
+event:event8_clean_television4_scene6,time:54.165,action:turnTo,object:tv327_scene6,place:livingroom260_scene6
+event:event9_clean_television4_scene6,time:73.347,action:wipe,object:towel49_scene6,t_object:tv327_scene6,place:livingroom260_scene6

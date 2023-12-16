@@ -1,0 +1,7 @@
+event:event0_place_waterglass1_scene3,time:8.763,action:walk,object:waterglass64_scene3,place:kitchen11_scene3
+event:event1_place_waterglass1_scene3,time:11.868,action:grab,object:waterglass64_scene3,place:kitchen11_scene3
+event:event2_place_waterglass1_scene3,time:20.424,action:walk,object:waterglass71_scene3,place:kitchen11_scene3
+event:event3_place_waterglass1_scene3,time:23.529,action:grab,object:waterglass71_scene3,place:kitchen11_scene3
+event:event4_place_waterglass1_scene3,time:28.773,action:walk,object:kitchentable138_scene3,place:kitchen11_scene3
+event:event5_place_waterglass1_scene3,time:31.809,action:put,object:waterglass64_scene3,t_object:kitchentable138_scene3,place:kitchen11_scene3
+event:event6_place_waterglass1_scene3,time:34.845,action:put,object:waterglass71_scene3,t_object:kitchentable138_scene3,place:kitchen11_scene3

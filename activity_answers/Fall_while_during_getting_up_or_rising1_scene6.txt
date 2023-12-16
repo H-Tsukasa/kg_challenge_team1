@@ -1,0 +1,5 @@
+event:event0_fall_while_during_getting_up_or_rising1_scene6,time:12.144,action:walk,object:bedroom70_scene6
+event:event1_fall_while_during_getting_up_or_rising1_scene6,time:19.32,action:walk,object:pillow117_scene6,place:bedroom70_scene6
+event:event2_fall_while_during_getting_up_or_rising1_scene6,time:22.425,action:grab,object:pillow117_scene6,place:bedroom70_scene6
+event:event3_fall_while_during_getting_up_or_rising1_scene6,time:26.082,action:walk,object:bed104_scene6,place:bedroom70_scene6
+event:event4_fall_while_during_getting_up_or_rising1_scene6,time:33.879,action:sit,object:bed104_scene6,place:bedroom70_scene6

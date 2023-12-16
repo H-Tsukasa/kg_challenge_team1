@@ -1,0 +1,10 @@
+event:event0_put_away_groceries_from_fridge2_scene5,time:8.348999999999998,action:walk,object:fridge158_scene5,place:kitchen112_scene5
+event:event1_put_away_groceries_from_fridge2_scene5,time:11.729999999999999,action:open,object:fridge158_scene5,place:kitchen112_scene5
+event:event2_put_away_groceries_from_fridge2_scene5,time:14.834999999999999,action:find,object:juice387_scene5,place:kitchen112_scene5
+event:event3_put_away_groceries_from_fridge2_scene5,time:17.802,action:grab,object:juice387_scene5,place:kitchen112_scene5
+event:event4_put_away_groceries_from_fridge2_scene5,time:20.838,action:walk,object:kitchentable139_scene5,place:kitchen112_scene5
+event:event5_put_away_groceries_from_fridge2_scene5,time:23.736,action:put,object:juice387_scene5,t_object:kitchentable139_scene5,place:kitchen112_scene5
+event:event6_put_away_groceries_from_fridge2_scene5,time:26.841,action:walk,object:fridge158_scene5,place:kitchen112_scene5
+event:event7_put_away_groceries_from_fridge2_scene5,time:30.153,action:find,object:milk388_scene5,place:kitchen112_scene5
+event:event8_put_away_groceries_from_fridge2_scene5,time:33.672,action:grab,object:milk388_scene5,place:kitchen112_scene5
+event:event9_put_away_groceries_from_fridge2_scene5,time:36.708,action:close,object:fridge158_scene5,place:kitchen112_scene5

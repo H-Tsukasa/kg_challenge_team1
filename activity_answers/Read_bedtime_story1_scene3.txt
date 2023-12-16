@@ -1,0 +1,8 @@
+event:event0_read_bedtime_story1_scene3,time:9.246,action:walk,object:bedroom358_scene3
+event:event1_read_bedtime_story1_scene3,time:15.318000000000001,action:walk,object:lightswitch415_scene3,place:bedroom358_scene3
+event:event2_read_bedtime_story1_scene3,time:18.699,action:switchOn,object:lightswitch415_scene3,place:bedroom358_scene3
+event:event3_read_bedtime_story1_scene3,time:26.220000000000002,action:walk,object:book392_scene3,place:bedroom358_scene3
+event:event4_read_bedtime_story1_scene3,time:29.325000000000003,action:grab,object:book392_scene3,place:bedroom358_scene3
+event:event5_read_bedtime_story1_scene3,time:34.155,action:walk,object:bed407_scene3,place:bedroom358_scene3
+event:event6_read_bedtime_story1_scene3,time:40.848,action:sit,object:bed407_scene3,place:bedroom358_scene3
+event:event7_read_bedtime_story1_scene3,time:54.57899999999999,action:read,object:book392_scene3,place:bedroom358_scene3

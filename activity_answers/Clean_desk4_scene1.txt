@@ -1,0 +1,8 @@
+event:event0_clean_desk4_scene1,time:4.829999999999999,action:walk,object:desk111_scene1,place:bedroom75_scene1
+event:event1_clean_desk4_scene1,time:15.386999999999997,action:walk,object:bathroom11_scene1
+event:event2_clean_desk4_scene1,time:21.941999999999997,action:walk,object:towel55_scene1,place:bathroom11_scene1
+event:event3_clean_desk4_scene1,time:25.046999999999997,action:grab,object:towel55_scene1,place:bathroom11_scene1
+event:event4_clean_desk4_scene1,time:35.535,action:walk,object:bedroom75_scene1
+event:event5_clean_desk4_scene1,time:41.538,action:walk,object:desk111_scene1,place:bedroom75_scene1
+event:event6_clean_desk4_scene1,time:41.538,action:turnTo,object:desk111_scene1,place:bedroom75_scene1
+event:event7_clean_desk4_scene1,time:60.09899999999999,action:wipe,object:towel55_scene1,t_object:desk111_scene1,place:bedroom75_scene1

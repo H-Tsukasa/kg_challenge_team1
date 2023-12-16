@@ -1,0 +1,4 @@
+event:event0_walk_with_memory_loss5_scene5,time:8.28,action:walk,object:kitchen112_scene5
+event:event1_walk_with_memory_loss5_scene5,time:13.040999999999999,action:walk,object:kitchentable139_scene5,place:kitchen112_scene5
+event:event2_walk_with_memory_loss5_scene5,time:15.938999999999998,action:walk,object:fridge158_scene5,place:kitchen112_scene5
+event:event3_walk_with_memory_loss5_scene5,time:19.872,action:walk,object:kitchentable139_scene5,place:kitchen112_scene5

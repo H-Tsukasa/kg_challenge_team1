@@ -1,0 +1,13 @@
+event:event0_make_hot_cereal1_scene1,time:10.488,action:walk,object:kitchen209_scene1
+event:event1_make_hot_cereal1_scene1,time:17.043,action:walk,object:stove314_scene1,place:kitchen209_scene1
+event:event2_make_hot_cereal1_scene1,time:21.942,action:walk,object:cereal339_scene1,place:kitchen209_scene1
+event:event3_make_hot_cereal1_scene1,time:25.047,action:grab,object:cereal339_scene1,place:kitchen209_scene1
+event:event4_make_hot_cereal1_scene1,time:28.221,action:walk,object:milk341_scene1,place:kitchen209_scene1
+event:event5_make_hot_cereal1_scene1,time:31.326,action:grab,object:milk341_scene1,place:kitchen209_scene1
+event:event6_make_hot_cereal1_scene1,time:36.708,action:walk,object:fryingpan270_scene1,place:kitchen209_scene1
+event:event7_make_hot_cereal1_scene1,time:52.370999999999995,action:pour,object:cereal339_scene1,t_object:fryingpan270_scene1,place:kitchen209_scene1
+event:event8_make_hot_cereal1_scene1,time:67.61999999999999,action:pour,object:milk341_scene1,t_object:fryingpan270_scene1,place:kitchen209_scene1
+event:event9_make_hot_cereal1_scene1,time:78.38399999999999,action:put,object:milk341_scene1,place:kitchen209_scene1
+event:event10_make_hot_cereal1_scene1,time:82.73099999999998,action:walk,object:stove314_scene1,place:kitchen209_scene1
+event:event11_make_hot_cereal1_scene1,time:89.28599999999997,action:switchOn,object:stove314_scene1,place:kitchen209_scene1
+event:event12_make_hot_cereal1_scene1,time:92.66699999999997,action:switchOff,object:stove314_scene1,place:kitchen209_scene1

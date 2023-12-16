@@ -1,0 +1,4 @@
+event:event0_walk_with_memory_loss8_scene3,time:11.246999999999998,action:walk,object:bathroom297_scene3
+event:event1_walk_with_memory_loss8_scene3,time:16.56,action:walk,object:towel340_scene3,place:bathroom297_scene3
+event:event2_walk_with_memory_loss8_scene3,time:25.046999999999997,action:walk,object:toilet333_scene3,place:bathroom297_scene3
+event:event3_walk_with_memory_loss8_scene3,time:33.741,action:walk,object:towel340_scene3,place:bathroom297_scene3

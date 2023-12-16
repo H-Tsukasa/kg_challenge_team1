@@ -1,0 +1,9 @@
+event:event0_pick_up_dirty_waterglass1_scene3,time:4.14,action:walk,object:waterglass64_scene3,place:kitchen11_scene3
+event:event1_pick_up_dirty_waterglass1_scene3,time:7.244999999999999,action:grab,object:waterglass64_scene3,place:kitchen11_scene3
+event:event2_pick_up_dirty_waterglass1_scene3,time:16.284,action:walk,object:waterglass71_scene3,place:kitchen11_scene3
+event:event3_pick_up_dirty_waterglass1_scene3,time:19.389,action:grab,object:waterglass71_scene3,place:kitchen11_scene3
+event:event4_pick_up_dirty_waterglass1_scene3,time:28.910999999999998,action:walk,object:sink158_scene3,place:kitchen11_scene3
+event:event5_pick_up_dirty_waterglass1_scene3,time:44.781,action:pour,object:waterglass64_scene3,t_object:sink158_scene3,place:kitchen11_scene3
+event:event6_pick_up_dirty_waterglass1_scene3,time:60.03,action:pour,object:waterglass71_scene3,t_object:sink158_scene3,place:kitchen11_scene3
+event:event7_pick_up_dirty_waterglass1_scene3,time:63.066,action:put,object:waterglass64_scene3,t_object:sink158_scene3,place:kitchen11_scene3
+event:event8_pick_up_dirty_waterglass1_scene3,time:66.102,action:put,object:waterglass71_scene3,t_object:sink158_scene3,place:kitchen11_scene3

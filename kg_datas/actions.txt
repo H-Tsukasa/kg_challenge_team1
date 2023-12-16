@@ -1,0 +1,41 @@
+look at
+turn to
+walk
+brush
+grab
+put
+rinse
+soak
+squeeze
+switch off
+switch on
+wipe
+close
+open
+put in
+scrub
+shake
+pour
+read
+sit
+write
+stand
+type
+drink
+find
+eat
+fallback
+fall
+fallsit
+climb
+falltable to
+fold
+legopp
+throw
+touch
+run
+stretch
+text
+jump
+squat
+straddle

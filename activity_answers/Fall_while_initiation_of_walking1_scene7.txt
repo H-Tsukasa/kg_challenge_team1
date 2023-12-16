@@ -1,0 +1,2 @@
+event:event0_fall_while_initiation_of_walking1_scene7,time:2.967,action:walk,object:kitchentable133_scene7,place:kitchen56_scene7
+event:event1_fall_while_initiation_of_walking1_scene7,time:7.383000000000001,action:turnTo,object:bookshelf155_scene7,place:kitchen56_scene7

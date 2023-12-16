@@ -1,0 +1,7 @@
+He grab remotecontrol.
+He switch off remotecontrol.
+He switch on remotecontrol.
+He wipe remotecontrol.
+He find remotecontrol.
+He throw remotecontrol.
+He touch remotecontrol.

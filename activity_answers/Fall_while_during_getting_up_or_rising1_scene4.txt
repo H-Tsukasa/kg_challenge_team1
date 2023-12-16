@@ -1,0 +1,5 @@
+event:event0_fall_while_during_getting_up_or_rising1_scene4,time:10.142999999999999,action:walk,object:bedroom216_scene4
+event:event1_fall_while_during_getting_up_or_rising1_scene4,time:14.145,action:walk,object:pillow259_scene4,place:bedroom216_scene4
+event:event2_fall_while_during_getting_up_or_rising1_scene4,time:17.25,action:grab,object:pillow259_scene4,place:bedroom216_scene4
+event:event3_fall_while_during_getting_up_or_rising1_scene4,time:20.976,action:walk,object:bed221_scene4,place:bedroom216_scene4
+event:event4_fall_while_during_getting_up_or_rising1_scene4,time:28.566,action:sit,object:bed221_scene4,place:bedroom216_scene4

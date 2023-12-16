@@ -1,0 +1,4 @@
+event:event0_pick_up_dirty_fork1_scene2,time:9.107999999999999,action:walk,object:cutleryfork84_scene2,place:kitchen51_scene2
+event:event1_pick_up_dirty_fork1_scene2,time:12.213,action:grab,object:cutleryfork84_scene2,place:kitchen51_scene2
+event:event2_pick_up_dirty_fork1_scene2,time:15.594,action:walk,object:sink149_scene2,place:kitchen51_scene2
+event:event3_pick_up_dirty_fork1_scene2,time:18.63,action:put,object:cutleryfork84_scene2,t_object:sink149_scene2,place:kitchen51_scene2

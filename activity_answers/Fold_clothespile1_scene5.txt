@@ -1,0 +1,5 @@
+event:event0_fold_clothespile1_scene5,time:3.863999999999999,action:walk,object:clothespile285_scene5,place:bedroom231_scene5
+event:event1_fold_clothespile1_scene5,time:6.968999999999999,action:grab,object:clothespile285_scene5,place:bedroom231_scene5
+event:event2_fold_clothespile1_scene5,time:12.902999999999999,action:walk,object:bed293_scene5,place:bedroom231_scene5
+event:event3_fold_clothespile1_scene5,time:27.668999999999997,action:shake,object:clothespile285_scene5,place:bedroom231_scene5
+event:event5_fold_clothespile1_scene5,time:30.705,action:put,object:clothespile285_scene5,t_object:bed293_scene5,place:bedroom231_scene5

@@ -1,0 +1,5 @@
+event:event0_go_to_sleep1_scene3,time:9.315,action:walk,object:bedroom358_scene3
+event:event1_go_to_sleep1_scene3,time:15.387,action:walk,object:lightswitch415_scene3,place:bedroom358_scene3
+event:event2_go_to_sleep1_scene3,time:19.872,action:switchOff,object:lightswitch415_scene3,place:bedroom358_scene3
+event:event3_go_to_sleep1_scene3,time:25.53,action:walk,object:bed407_scene3,place:bedroom358_scene3
+event:event4_go_to_sleep1_scene3,time:36.087,action:sit,object:bed407_scene3,place:bedroom358_scene3

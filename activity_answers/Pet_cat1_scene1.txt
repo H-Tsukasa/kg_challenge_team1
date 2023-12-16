@@ -1,0 +1,9 @@
+event:event0_pet_cat1_scene1,time:5.796,action:walk,object:cat465_scene1,place:bedroom75_scene1
+event:event1_pet_cat1_scene1,time:8.901,action:grab,object:cat465_scene1,place:bedroom75_scene1
+event:event2_pet_cat1_scene1,time:12.144,action:walk,object:bed112_scene1,place:bedroom75_scene1
+event:event3_pet_cat1_scene1,time:18.078,action:sit,object:bed112_scene1,place:bedroom75_scene1
+event:event4_pet_cat1_scene1,time:18.078,action:touch,object:cat465_scene1,place:bedroom75_scene1
+event:event6_pet_cat1_scene1,time:25.944,action:walk,object:kitchen209_scene1
+event:event7_pet_cat1_scene1,time:38.433,action:walk,object:livingroom342_scene1
+event:event8_pet_cat1_scene1,time:43.746,action:walk,object:sofa375_scene1,place:livingroom342_scene1
+event:event9_pet_cat1_scene1,time:54.303,action:sit,object:sofa375_scene1,place:livingroom342_scene1

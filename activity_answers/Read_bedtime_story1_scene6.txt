@@ -1,0 +1,8 @@
+event:event0_read_bedtime_story1_scene6,time:6.831,action:walk,object:bedroom70_scene6
+event:event1_read_bedtime_story1_scene6,time:13.317,action:walk,object:lightswitch109_scene6,place:bedroom70_scene6
+event:event2_read_bedtime_story1_scene6,time:16.698,action:switchOn,object:lightswitch109_scene6,place:bedroom70_scene6
+event:event3_read_bedtime_story1_scene6,time:24.84,action:walk,object:book119_scene6,place:bedroom70_scene6
+event:event4_read_bedtime_story1_scene6,time:27.945,action:grab,object:book119_scene6,place:bedroom70_scene6
+event:event5_read_bedtime_story1_scene6,time:31.740000000000002,action:walk,object:bed104_scene6,place:bedroom70_scene6
+event:event6_read_bedtime_story1_scene6,time:38.364000000000004,action:sit,object:bed104_scene6,place:bedroom70_scene6
+event:event7_read_bedtime_story1_scene6,time:52.371,action:read,object:book119_scene6,place:bedroom70_scene6

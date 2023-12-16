@@ -1,0 +1,5 @@
+event:event0_clean_kitchentable1_scene1,time:6.623999999999999,action:walk,object:kitchentable233_scene1,place:kitchen209_scene1
+event:event1_clean_kitchentable1_scene1,time:12.557999999999998,action:walk,object:washingsponge268_scene1,place:kitchen209_scene1
+event:event2_clean_kitchentable1_scene1,time:15.662999999999998,action:grab,object:washingsponge268_scene1,place:kitchen209_scene1
+event:event3_clean_kitchentable1_scene1,time:21.665999999999997,action:walk,object:kitchentable233_scene1,place:kitchen209_scene1
+event:event4_clean_kitchentable1_scene1,time:40.089,action:wipe,object:washingsponge268_scene1,t_object:kitchentable233_scene1,place:kitchen209_scene1

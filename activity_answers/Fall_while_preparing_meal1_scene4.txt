@@ -1,0 +1,6 @@
+event:event0_fall_while_preparing_meal1_scene4,time:7.59,action:walk,object:fryingpan126_scene4,place:kitchen11_scene4
+event:event1_fall_while_preparing_meal1_scene4,time:10.695,action:grab,object:fryingpan126_scene4,place:kitchen11_scene4
+event:event2_fall_while_preparing_meal1_scene4,time:14.835,action:walk,object:chicken69_scene4,place:kitchen11_scene4
+event:event3_fall_while_preparing_meal1_scene4,time:17.94,action:grab,object:chicken69_scene4,place:kitchen11_scene4
+event:event4_fall_while_preparing_meal1_scene4,time:19.32,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event5_fall_while_preparing_meal1_scene4,time:24.219,action:turnTo,object:door40_scene4,place:kitchen11_scene4

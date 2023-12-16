@@ -1,0 +1,7 @@
+event:event0_pick_up_dirty_dishes1_scene4,time:4.278000000000001,action:walk,object:plate129_scene4,place:kitchen11_scene4
+event:event1_pick_up_dirty_dishes1_scene4,time:7.383000000000001,action:grab,object:plate129_scene4,place:kitchen11_scene4
+event:event2_pick_up_dirty_dishes1_scene4,time:13.386,action:walk,object:plate130_scene4,place:kitchen11_scene4
+event:event3_pick_up_dirty_dishes1_scene4,time:16.491,action:grab,object:plate130_scene4,place:kitchen11_scene4
+event:event4_pick_up_dirty_dishes1_scene4,time:21.252,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event5_pick_up_dirty_dishes1_scene4,time:24.288,action:put,object:plate129_scene4,t_object:sink94_scene4,place:kitchen11_scene4
+event:event6_pick_up_dirty_dishes1_scene4,time:27.324,action:put,object:plate130_scene4,t_object:sink94_scene4,place:kitchen11_scene4

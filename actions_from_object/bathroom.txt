@@ -1,0 +1,4 @@
+He turn to bathroom.
+He close bathroom.
+He open bathroom.
+He scrub bathroom.

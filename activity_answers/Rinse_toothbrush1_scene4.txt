@@ -1,0 +1,8 @@
+event:event0_rinse_toothbrush1_scene4,time:2.622,action:walk,object:toothbrush202_scene4,place:bathroom177_scene4
+event:event1_rinse_toothbrush1_scene4,time:5.727,action:grab,object:toothbrush202_scene4,place:bathroom177_scene4
+event:event2_rinse_toothbrush1_scene4,time:6.003,action:walk,object:faucet200_scene4,place:bathroom177_scene4
+event:event3_rinse_toothbrush1_scene4,time:9.384,action:switchOn,object:faucet200_scene4,place:bathroom177_scene4
+event:event4_rinse_toothbrush1_scene4,time:24.357,action:soak,object:toothbrush202_scene4,place:bathroom177_scene4
+event:event5_rinse_toothbrush1_scene4,time:40.778999999999996,action:rinse,object:toothbrush202_scene4,place:bathroom177_scene4
+event:event6_rinse_toothbrush1_scene4,time:44.16,action:switchOff,object:faucet200_scene4,place:bathroom177_scene4
+event:event7_rinse_toothbrush1_scene4,time:51.266999999999996,action:put,object:toothbrush202_scene4,place:bathroom177_scene4

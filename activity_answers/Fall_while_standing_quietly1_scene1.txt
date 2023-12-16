@@ -1,0 +1,4 @@
+event:event0_fall_while_standing_quietly1_scene1,time:9.521999999999998,action:walk,object:bookshelf377_scene1,place:livingroom342_scene1
+event:event1_fall_while_standing_quietly1_scene1,time:12.626999999999999,action:grab,object:book441_scene1,place:livingroom342_scene1
+event:event2_fall_while_standing_quietly1_scene1,time:15.732,action:grab,object:book443_scene1,place:livingroom342_scene1
+event:event3_fall_while_standing_quietly1_scene1,time:19.527,action:turnTo,object:cabinet422_scene1,place:livingroom342_scene1

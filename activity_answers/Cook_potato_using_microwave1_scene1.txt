@@ -1,0 +1,13 @@
+event:event0_cook_potato_using_microwave1_scene1,time:9.246,action:walk,object:kitchen209_scene1
+event:event1_cook_potato_using_microwave1_scene1,time:12.351,action:walk,object:potato465_scene1,place:kitchen209_scene1
+event:event2_cook_potato_using_microwave1_scene1,time:15.456000000000001,action:grab,object:potato465_scene1,place:kitchen209_scene1
+event:event3_cook_potato_using_microwave1_scene1,time:21.873,action:walk,object:sink249_scene1,place:kitchen209_scene1
+event:event4_cook_potato_using_microwave1_scene1,time:27.6,action:switchOn,object:faucet250_scene1,place:kitchen209_scene1
+event:event5_cook_potato_using_microwave1_scene1,time:42.228,action:soak,object:potato465_scene1,place:kitchen209_scene1
+event:event6_cook_potato_using_microwave1_scene1,time:45.609,action:switchOff,object:faucet250_scene1,place:kitchen209_scene1
+event:event7_cook_potato_using_microwave1_scene1,time:49.197,action:walk,object:microwave316_scene1,place:kitchen209_scene1
+event:event8_cook_potato_using_microwave1_scene1,time:52.509,action:open,object:microwave316_scene1,place:kitchen209_scene1
+event:event9_cook_potato_using_microwave1_scene1,time:55.545,action:putIn,object:potato465_scene1,t_object:microwave316_scene1,place:kitchen209_scene1
+event:event10_cook_potato_using_microwave1_scene1,time:58.857,action:close,object:microwave316_scene1,place:kitchen209_scene1
+event:event11_cook_potato_using_microwave1_scene1,time:63.963,action:switchOn,object:microwave316_scene1,place:kitchen209_scene1
+event:event12_cook_potato_using_microwave1_scene1,time:67.413,action:switchOff,object:microwave316_scene1,place:kitchen209_scene1

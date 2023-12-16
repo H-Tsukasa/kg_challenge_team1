@@ -1,0 +1,4 @@
+event:event0_turn_on_light8_scene4,time:10.488,action:walk,object:kitchen11_scene4
+event:event1_turn_on_light8_scene4,time:18.078,action:walk,object:bathroom177_scene4
+event:event2_turn_on_light8_scene4,time:23.115,action:walk,object:lightswitch214_scene4,place:bathroom177_scene4
+event:event3_turn_on_light8_scene4,time:26.496,action:switchOn,object:lightswitch214_scene4,place:bathroom177_scene4

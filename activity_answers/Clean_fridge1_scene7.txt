@@ -1,0 +1,8 @@
+event:event0_clean_fridge1_scene7,time:4.899,action:walk,object:fridge168_scene7,place:kitchen56_scene7
+event:event1_clean_fridge1_scene7,time:12.902999999999999,action:walk,object:washingsponge114_scene7,place:kitchen56_scene7
+event:event2_clean_fridge1_scene7,time:16.008,action:grab,object:washingsponge114_scene7,place:kitchen56_scene7
+event:event3_clean_fridge1_scene7,time:23.942999999999998,action:walk,object:fridge168_scene7,place:kitchen56_scene7
+event:event4_clean_fridge1_scene7,time:27.254999999999995,action:open,object:fridge168_scene7,place:kitchen56_scene7
+event:event5_clean_fridge1_scene7,time:46.022999999999996,action:wipe,object:washingsponge114_scene7,t_object:fridge168_scene7,place:kitchen56_scene7
+event:event6_clean_fridge1_scene7,time:49.334999999999994,action:close,object:fridge168_scene7,place:kitchen56_scene7
+event:event7_clean_fridge1_scene7,time:69.0,action:wipe,object:washingsponge114_scene7,t_object:fridge168_scene7,place:kitchen56_scene7

@@ -1,0 +1,11 @@
+event:event0_prepare_for_brushing_teeth1_scene4,time:9.246,action:walk,object:bathroom177_scene4
+event:event1_prepare_for_brushing_teeth1_scene4,time:14.49,action:walk,object:toothbrush202_scene4,place:bathroom177_scene4
+event:event2_prepare_for_brushing_teeth1_scene4,time:17.595,action:grab,object:toothbrush202_scene4,place:bathroom177_scene4
+event:event3_prepare_for_brushing_teeth1_scene4,time:19.113,action:walk,object:toothpaste209_scene4,place:bathroom177_scene4
+event:event4_prepare_for_brushing_teeth1_scene4,time:22.218,action:grab,object:toothpaste209_scene4,place:bathroom177_scene4
+event:event5_prepare_for_brushing_teeth1_scene4,time:44.298,action:squeeze,object:toothpaste209_scene4,place:bathroom177_scene4
+event:event6_prepare_for_brushing_teeth1_scene4,time:51.198,action:put,object:toothpaste209_scene4,place:bathroom177_scene4
+event:event7_prepare_for_brushing_teeth1_scene4,time:53.613,action:walk,object:faucet200_scene4,place:bathroom177_scene4
+event:event8_prepare_for_brushing_teeth1_scene4,time:56.994,action:switchOn,object:faucet200_scene4,place:bathroom177_scene4
+event:event9_prepare_for_brushing_teeth1_scene4,time:71.07,action:soak,object:toothbrush202_scene4,place:bathroom177_scene4
+event:event10_prepare_for_brushing_teeth1_scene4,time:74.451,action:switchOff,object:faucet200_scene4,place:bathroom177_scene4

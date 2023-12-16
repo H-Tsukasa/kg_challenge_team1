@@ -1,0 +1,5 @@
+event:event0_fall_in_bathroom1_scene3,time:8.348999999999998,action:walk,object:bathroom297_scene3
+event:event1_fall_in_bathroom1_scene3,time:13.247999999999998,action:walk,object:door317_scene3,place:bathroom297_scene3
+event:event2_fall_in_bathroom1_scene3,time:16.559999999999995,action:close,object:door317_scene3,place:bathroom297_scene3
+event:event3_fall_in_bathroom1_scene3,time:19.595999999999997,action:walk,object:toilet333_scene3,place:bathroom297_scene3
+event:event4_fall_in_bathroom1_scene3,time:27.116999999999997,action:sit,object:toilet333_scene3,place:bathroom297_scene3

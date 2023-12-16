@@ -1,0 +1,7 @@
+event:event0_pick_up_dirty_fork1_scene6,time:3.519,action:walk,object:cutleryfork218_scene6,place:kitchen161_scene6
+event:event1_pick_up_dirty_fork1_scene6,time:6.6240000000000006,action:grab,object:cutleryfork218_scene6,place:kitchen161_scene6
+event:event2_pick_up_dirty_fork1_scene6,time:12.972000000000001,action:walk,object:cutleryfork222_scene6,place:kitchen161_scene6
+event:event3_pick_up_dirty_fork1_scene6,time:16.077,action:grab,object:cutleryfork222_scene6,place:kitchen161_scene6
+event:event4_pick_up_dirty_fork1_scene6,time:21.873,action:walk,object:sink197_scene6,place:kitchen161_scene6
+event:event5_pick_up_dirty_fork1_scene6,time:24.909000000000002,action:put,object:cutleryfork218_scene6,t_object:sink197_scene6,place:kitchen161_scene6
+event:event6_pick_up_dirty_fork1_scene6,time:27.945000000000004,action:put,object:cutleryfork222_scene6,t_object:sink197_scene6,place:kitchen161_scene6

@@ -1,0 +1,10 @@
+event:event0_hand_washing1_scene4,time:5.244,action:walk,object:toilet193_scene4,place:bathroom177_scene4
+event:event1_hand_washing1_scene4,time:10.902000000000001,action:walk,object:barsoap204_scene4,place:bathroom177_scene4
+event:event2_hand_washing1_scene4,time:14.007000000000001,action:grab,object:barsoap204_scene4,place:bathroom177_scene4
+event:event3_hand_washing1_scene4,time:17.664,action:walk,object:faucet200_scene4,place:bathroom177_scene4
+event:event4_hand_washing1_scene4,time:21.045,action:switchOn,object:faucet200_scene4,place:bathroom177_scene4
+event:event5_hand_washing1_scene4,time:36.156,action:soak,object:barsoap204_scene4,place:bathroom177_scene4
+event:event6_hand_washing1_scene4,time:52.578,action:rinse,object:barsoap204_scene4,place:bathroom177_scene4
+event:event7_hand_washing1_scene4,time:67.137,action:soak,object:barsoap204_scene4,place:bathroom177_scene4
+event:event8_hand_washing1_scene4,time:76.65899999999999,action:put,object:barsoap204_scene4,place:bathroom177_scene4
+event:event9_hand_washing1_scene4,time:82.52399999999999,action:switchOff,object:faucet200_scene4,place:bathroom177_scene4

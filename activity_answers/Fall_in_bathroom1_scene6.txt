@@ -1,0 +1,5 @@
+event:event0_fall_in_bathroom1_scene6,time:7.382999999999999,action:walk,object:bathroom11_scene6
+event:event1_fall_in_bathroom1_scene6,time:12.834,action:walk,object:door47_scene6,place:bathroom11_scene6
+event:event2_fall_in_bathroom1_scene6,time:16.145999999999997,action:close,object:door47_scene6,place:bathroom11_scene6
+event:event3_fall_in_bathroom1_scene6,time:21.528,action:walk,object:toilet46_scene6,place:bathroom11_scene6
+event:event4_fall_in_bathroom1_scene6,time:28.842,action:sit,object:toilet46_scene6,place:bathroom11_scene6

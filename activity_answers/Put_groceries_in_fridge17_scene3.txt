@@ -1,0 +1,7 @@
+event:event0_put_groceries_in_fridge17_scene3,time:5.451,action:walk,object:chips177_scene3,place:kitchen11_scene3
+event:event1_put_groceries_in_fridge17_scene3,time:8.556,action:grab,object:chips177_scene3,place:kitchen11_scene3
+event:event2_put_groceries_in_fridge17_scene3,time:13.11,action:walk,object:fridge165_scene3,place:kitchen11_scene3
+event:event3_put_groceries_in_fridge17_scene3,time:16.421999999999997,action:open,object:fridge165_scene3,place:kitchen11_scene3
+event:event4_put_groceries_in_fridge17_scene3,time:16.421999999999997,action:turnTo,object:fridge165_scene3,place:kitchen11_scene3
+event:event5_put_groceries_in_fridge17_scene3,time:19.458,action:putIn,object:chips177_scene3,t_object:fridge165_scene3,place:kitchen11_scene3
+event:event6_put_groceries_in_fridge17_scene3,time:22.769999999999996,action:close,object:fridge165_scene3,place:kitchen11_scene3

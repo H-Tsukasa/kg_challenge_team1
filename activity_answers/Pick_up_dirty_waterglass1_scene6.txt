@@ -1,0 +1,9 @@
+event:event0_pick_up_dirty_waterglass1_scene6,time:2.208,action:walk,object:waterglass216_scene6,place:kitchen161_scene6
+event:event1_pick_up_dirty_waterglass1_scene6,time:5.313000000000001,action:grab,object:waterglass216_scene6,place:kitchen161_scene6
+event:event2_pick_up_dirty_waterglass1_scene6,time:12.42,action:walk,object:waterglass220_scene6,place:kitchen161_scene6
+event:event3_pick_up_dirty_waterglass1_scene6,time:15.525,action:grab,object:waterglass220_scene6,place:kitchen161_scene6
+event:event4_pick_up_dirty_waterglass1_scene6,time:21.528,action:walk,object:sink197_scene6,place:kitchen161_scene6
+event:event5_pick_up_dirty_waterglass1_scene6,time:36.224999999999994,action:pour,object:waterglass216_scene6,t_object:sink197_scene6,place:kitchen161_scene6
+event:event6_pick_up_dirty_waterglass1_scene6,time:51.47399999999999,action:pour,object:waterglass220_scene6,t_object:sink197_scene6,place:kitchen161_scene6
+event:event7_pick_up_dirty_waterglass1_scene6,time:54.50999999999999,action:put,object:waterglass216_scene6,t_object:sink197_scene6,place:kitchen161_scene6
+event:event8_pick_up_dirty_waterglass1_scene6,time:57.54599999999999,action:put,object:waterglass220_scene6,t_object:sink197_scene6,place:kitchen161_scene6

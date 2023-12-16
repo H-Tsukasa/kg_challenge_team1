@@ -1,0 +1,4 @@
+event:event0_turn_off_light8_scene6,time:6.209999999999999,action:walk,object:bathroom11_scene6
+event:event1_turn_off_light8_scene6,time:10.901999999999997,action:walk,object:lightswitch68_scene6,place:bathroom11_scene6
+event:event2_turn_off_light8_scene6,time:14.282999999999998,action:switchOff,object:lightswitch68_scene6,place:bathroom11_scene6
+event:event3_turn_off_light8_scene6,time:18.974999999999998,action:walk,object:bedroom70_scene6

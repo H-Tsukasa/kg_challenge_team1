@@ -1,0 +1,5 @@
+event:event0_eat_breadslice1_scene3,time:6.278999999999999,action:walk,object:bedroom358_scene3
+event:event1_eat_breadslice1_scene3,time:15.456,action:walk,object:kitchen11_scene3
+event:event2_eat_breadslice1_scene3,time:21.459,action:walk,object:breadslice170_scene3,place:kitchen11_scene3
+event:event3_eat_breadslice1_scene3,time:24.564,action:grab,object:breadslice170_scene3,place:kitchen11_scene3
+event:event4_eat_breadslice1_scene3,time:34.569,action:eat,object:breadslice170_scene3,place:kitchen11_scene3

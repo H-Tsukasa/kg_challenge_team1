@@ -1,0 +1,10 @@
+event:event0_clean_sofa1_scene5,time:4.14,action:walk,object:sofa25_scene5,place:livingroom11_scene5
+event:event1_clean_sofa1_scene5,time:12.765,action:walk,object:bathroom295_scene5
+event:event2_clean_sofa1_scene5,time:15.870000000000001,action:walk,object:towel361_scene5,place:bathroom295_scene5
+event:event3_clean_sofa1_scene5,time:18.975,action:grab,object:towel361_scene5,place:bathroom295_scene5
+event:event4_clean_sofa1_scene5,time:28.773000000000003,action:walk,object:livingroom11_scene5
+event:event5_clean_sofa1_scene5,time:33.672000000000004,action:walk,object:pillow83_scene5,place:livingroom11_scene5
+event:event6_clean_sofa1_scene5,time:36.777,action:grab,object:pillow83_scene5,place:livingroom11_scene5
+event:event7_clean_sofa1_scene5,time:57.408,action:scrub,object:towel361_scene5,t_object:pillow83_scene5,place:livingroom11_scene5
+event:event8_clean_sofa1_scene5,time:71.484,action:shake,object:pillow83_scene5,place:livingroom11_scene5
+event:event9_clean_sofa1_scene5,time:78.03899999999999,action:put,object:pillow83_scene5,place:livingroom11_scene5

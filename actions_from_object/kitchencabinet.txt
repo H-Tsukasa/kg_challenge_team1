@@ -1,0 +1,8 @@
+He turn to kitchencabinet.
+He close kitchencabinet.
+He open kitchencabinet.
+He wipe kitchencabinet.
+He find kitchencabinet.
+He touch kitchencabinet.
+He grab kitchencabinet.
+He scrub kitchencabinet.

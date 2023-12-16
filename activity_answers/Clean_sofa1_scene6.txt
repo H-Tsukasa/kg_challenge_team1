@@ -1,0 +1,12 @@
+event:event0_clean_sofa1_scene6,time:6.072,action:walk,object:sofa293_scene6,place:livingroom260_scene6
+event:event1_clean_sofa1_scene6,time:17.25,action:walk,object:bedroom70_scene6
+event:event2_clean_sofa1_scene6,time:23.736,action:walk,object:bathroom11_scene6
+event:event3_clean_sofa1_scene6,time:28.221,action:walk,object:towel49_scene6,place:bathroom11_scene6
+event:event4_clean_sofa1_scene6,time:31.326,action:grab,object:towel49_scene6,place:bathroom11_scene6
+event:event5_clean_sofa1_scene6,time:39.33,action:walk,object:bedroom70_scene6
+event:event6_clean_sofa1_scene6,time:48.162,action:walk,object:livingroom260_scene6
+event:event7_clean_sofa1_scene6,time:54.303,action:walk,object:pillow323_scene6,place:livingroom260_scene6
+event:event8_clean_sofa1_scene6,time:57.407999999999994,action:grab,object:pillow323_scene6,place:livingroom260_scene6
+event:event9_clean_sofa1_scene6,time:79.97099999999999,action:scrub,object:towel49_scene6,t_object:pillow323_scene6,place:livingroom260_scene6
+event:event10_clean_sofa1_scene6,time:94.04699999999998,action:shake,object:pillow323_scene6,place:livingroom260_scene6
+event:event11_clean_sofa1_scene6,time:100.60199999999998,action:put,object:pillow323_scene6,place:livingroom260_scene6

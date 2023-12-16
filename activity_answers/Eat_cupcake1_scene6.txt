@@ -1,0 +1,9 @@
+event:event0_eat_cupcake1_scene6,time:7.59,action:walk,object:bedroom70_scene6
+event:event1_eat_cupcake1_scene6,time:18.836999999999996,action:walk,object:kitchen161_scene6
+event:event2_eat_cupcake1_scene6,time:21.389999999999997,action:walk,object:cupcake251_scene6,place:kitchen161_scene6
+event:event3_eat_cupcake1_scene6,time:24.494999999999997,action:grab,object:cupcake251_scene6,place:kitchen161_scene6
+event:event4_eat_cupcake1_scene6,time:34.5,action:walk,object:bedroom70_scene6
+event:event5_eat_cupcake1_scene6,time:42.78,action:walk,object:livingroom260_scene6
+event:event6_eat_cupcake1_scene6,time:48.507,action:walk,object:sofa293_scene6,place:livingroom260_scene6
+event:event7_eat_cupcake1_scene6,time:58.028999999999996,action:sit,object:sofa293_scene6,place:livingroom260_scene6
+event:event8_eat_cupcake1_scene6,time:69.207,action:eat,object:cupcake251_scene6,place:livingroom260_scene6

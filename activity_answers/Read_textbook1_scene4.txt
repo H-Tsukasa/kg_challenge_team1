@@ -1,0 +1,10 @@
+event:event0_read_textbook1_scene4,time:4.002,action:walk,object:book226_scene4,place:bedroom216_scene4
+event:event1_read_textbook1_scene4,time:7.106999999999999,action:grab,object:book226_scene4,place:bedroom216_scene4
+event:event2_read_textbook1_scene4,time:10.142999999999999,action:walk,object:desk219_scene4,place:bedroom216_scene4
+event:event3_read_textbook1_scene4,time:25.461,action:read,object:book226_scene4,place:bedroom216_scene4
+event:event4_read_textbook1_scene4,time:25.461,action:walk,object:desk219_scene4,place:bedroom216_scene4
+event:event5_read_textbook1_scene4,time:28.497,action:put,object:book226_scene4,t_object:desk219_scene4,place:bedroom216_scene4
+event:event6_read_textbook1_scene4,time:40.917,action:walk,object:kitchen11_scene4
+event:event7_read_textbook1_scene4,time:48.231,action:walk,object:bathroom177_scene4
+event:event8_read_textbook1_scene4,time:50.922000000000004,action:walk,object:toilet193_scene4,place:bathroom177_scene4
+event:event9_read_textbook1_scene4,time:58.857000000000006,action:sit,object:toilet193_scene4,place:bathroom177_scene4

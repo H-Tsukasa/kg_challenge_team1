@@ -1,0 +1,4 @@
+event:event0_walk_with_memory_loss8_scene1,time:9.383999999999999,action:walk,object:bathroom11_scene1
+event:event1_walk_with_memory_loss8_scene1,time:15.317999999999998,action:walk,object:towel55_scene1,place:bathroom11_scene1
+event:event2_walk_with_memory_loss8_scene1,time:26.22,action:walk,object:toilet46_scene1,place:bathroom11_scene1
+event:event3_walk_with_memory_loss8_scene1,time:35.949,action:walk,object:towel55_scene1,place:bathroom11_scene1

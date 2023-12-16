@@ -1,0 +1,4 @@
+event:event0_walk_with_memory_loss7_scene5,time:6.623999999999999,action:walk,object:bedroom231_scene5
+event:event1_walk_with_memory_loss7_scene5,time:10.971,action:walk,object:bed293_scene5,place:bedroom231_scene5
+event:event2_walk_with_memory_loss7_scene5,time:15.939,action:walk,object:pillow252_scene5,place:bedroom231_scene5
+event:event3_walk_with_memory_loss7_scene5,time:22.77,action:walk,object:bed293_scene5,place:bedroom231_scene5

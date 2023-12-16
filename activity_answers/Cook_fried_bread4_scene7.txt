@@ -1,0 +1,11 @@
+event:event0_cook_fried_bread4_scene7,time:7.106999999999999,action:walk,object:kitchen56_scene7
+event:event1_cook_fried_bread4_scene7,time:15.386999999999999,action:walk,object:breadslice166_scene7,place:kitchen56_scene7
+event:event2_cook_fried_bread4_scene7,time:18.491999999999997,action:grab,object:breadslice166_scene7,place:kitchen56_scene7
+event:event3_cook_fried_bread4_scene7,time:21.596999999999998,action:walk,object:fryingpan90_scene7,place:kitchen56_scene7
+event:event4_cook_fried_bread4_scene7,time:24.633,action:put,object:breadslice166_scene7,t_object:fryingpan90_scene7,place:kitchen56_scene7
+event:event5_cook_fried_bread4_scene7,time:27.944999999999997,action:switchOn,object:stove160_scene7,place:kitchen56_scene7
+event:event6_cook_fried_bread4_scene7,time:33.672,action:walk,object:milk201_scene7,place:kitchen56_scene7
+event:event7_cook_fried_bread4_scene7,time:36.776999999999994,action:grab,object:milk201_scene7,place:kitchen56_scene7
+event:event8_cook_fried_bread4_scene7,time:42.57299999999999,action:walk,object:fryingpan90_scene7,place:kitchen56_scene7
+event:event9_cook_fried_bread4_scene7,time:58.788,action:pour,object:milk201_scene7,t_object:fryingpan90_scene7,place:kitchen56_scene7
+event:event10_cook_fried_bread4_scene7,time:62.099999999999994,action:switchOff,object:stove160_scene7,place:kitchen56_scene7

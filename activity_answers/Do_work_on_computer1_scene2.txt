@@ -1,0 +1,5 @@
+event:event0_do_work_on_computer1_scene2,time:6.348,action:walk,object:computer242_scene2,place:bedroom197_scene2
+event:event1_do_work_on_computer1_scene2,time:12.971999999999998,action:switchOn,object:computer242_scene2,place:bedroom197_scene2
+event:event2_do_work_on_computer1_scene2,time:22.217999999999996,action:sit,object:chair228_scene2,place:bedroom197_scene2
+event:event3_do_work_on_computer1_scene2,time:41.882999999999996,action:type,object:keyboard244_scene2,place:bedroom197_scene2
+event:event5_do_work_on_computer1_scene2,time:41.882999999999996,action:walk,object:kitchen51_scene2,place:kitchen51_scene2

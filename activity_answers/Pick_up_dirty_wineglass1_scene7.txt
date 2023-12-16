@@ -1,0 +1,9 @@
+event:event0_pick_up_dirty_wineglass1_scene7,time:2.829,action:walk,object:wineglass376_scene7,place:kitchen56_scene7
+event:event1_pick_up_dirty_wineglass1_scene7,time:5.934,action:grab,object:wineglass376_scene7,place:kitchen56_scene7
+event:event2_pick_up_dirty_wineglass1_scene7,time:15.041999999999998,action:walk,object:wineglass377_scene7,place:kitchen56_scene7
+event:event3_pick_up_dirty_wineglass1_scene7,time:18.147,action:grab,object:wineglass377_scene7,place:kitchen56_scene7
+event:event4_pick_up_dirty_wineglass1_scene7,time:25.529999999999998,action:walk,object:sink152_scene7,place:kitchen56_scene7
+event:event5_pick_up_dirty_wineglass1_scene7,time:40.50299999999999,action:pour,object:wineglass376_scene7,t_object:sink152_scene7,place:kitchen56_scene7
+event:event6_pick_up_dirty_wineglass1_scene7,time:55.751999999999995,action:pour,object:wineglass377_scene7,t_object:sink152_scene7,place:kitchen56_scene7
+event:event7_pick_up_dirty_wineglass1_scene7,time:58.788,action:put,object:wineglass376_scene7,t_object:sink152_scene7,place:kitchen56_scene7
+event:event8_pick_up_dirty_wineglass1_scene7,time:61.824,action:put,object:wineglass377_scene7,t_object:sink152_scene7,place:kitchen56_scene7

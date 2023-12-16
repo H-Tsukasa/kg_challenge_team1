@@ -1,0 +1,5 @@
+event:event0_admire_art1_scene1,time:6.278999999999999,action:walk,object:kitchen209_scene1
+event:event1_admire_art1_scene1,time:18.354,action:walk,object:livingroom342_scene1
+event:event2_admire_art1_scene1,time:25.323,action:walk,object:wallpictureframe423_scene1,place:livingroom342_scene1
+event:event3_admire_art1_scene1,time:25.323,action:turnTo,object:wallpictureframe423_scene1,place:livingroom342_scene1
+event:event4_admire_art1_scene1,time:25.323,action:lookAt,object:wallpictureframe423_scene1,place:livingroom342_scene1

@@ -1,0 +1,4 @@
+event:event0_turn_on_light5_scene6,time:6.141,action:walk,object:bedroom70_scene6
+event:event1_turn_on_light5_scene6,time:17.25,action:walk,object:kitchen161_scene6
+event:event2_turn_on_light5_scene6,time:20.7,action:walk,object:lightswitch204_scene6,place:kitchen161_scene6
+event:event3_turn_on_light5_scene6,time:24.081,action:switchOn,object:lightswitch204_scene6,place:kitchen161_scene6

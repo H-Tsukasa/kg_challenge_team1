@@ -1,0 +1,5 @@
+event:event0_pick_up_dirty_waterglass1_scene7,time:5.52,action:walk,object:waterglass122_scene7,place:kitchen56_scene7
+event:event1_pick_up_dirty_waterglass1_scene7,time:8.625,action:grab,object:waterglass122_scene7,place:kitchen56_scene7
+event:event2_pick_up_dirty_waterglass1_scene7,time:11.868,action:walk,object:sink152_scene7,place:kitchen56_scene7
+event:event3_pick_up_dirty_waterglass1_scene7,time:26.979,action:pour,object:waterglass122_scene7,t_object:sink152_scene7,place:kitchen56_scene7
+event:event4_pick_up_dirty_waterglass1_scene7,time:30.015,action:put,object:waterglass122_scene7,t_object:sink152_scene7,place:kitchen56_scene7

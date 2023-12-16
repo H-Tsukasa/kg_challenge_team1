@@ -1,0 +1,5 @@
+event:event0_fold_clothesshirt1_scene5,time:4.760999999999999,action:walk,object:closet274_scene5,place:bedroom231_scene5
+event:event1_fold_clothesshirt1_scene5,time:7.866,action:grab,object:clothesshirt278_scene5,place:bedroom231_scene5
+event:event2_fold_clothesshirt1_scene5,time:12.282,action:walk,object:bed293_scene5,place:bedroom231_scene5
+event:event3_fold_clothesshirt1_scene5,time:25.599,action:shake,object:clothesshirt278_scene5,place:bedroom231_scene5
+event:event5_fold_clothesshirt1_scene5,time:28.635,action:put,object:clothesshirt278_scene5,t_object:bed293_scene5,place:bedroom231_scene5

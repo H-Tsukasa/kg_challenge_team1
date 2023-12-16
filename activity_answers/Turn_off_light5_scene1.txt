@@ -1,0 +1,3 @@
+event:event0_turn_off_light5_scene1,time:7.451999999999999,action:walk,object:lightswitch263_scene1,place:kitchen209_scene1
+event:event1_turn_off_light5_scene1,time:14.006999999999998,action:switchOff,object:lightswitch263_scene1,place:kitchen209_scene1
+event:event2_turn_off_light5_scene1,time:24.977999999999998,action:walk,object:livingroom342_scene1

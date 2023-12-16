@@ -1,0 +1,9 @@
+event:event0_use_phone4_scene2,time:5.726999999999999,action:walk,object:cellphone333_scene2,place:livingroom274_scene2
+event:event1_use_phone4_scene2,time:8.831999999999999,action:grab,object:cellphone333_scene2,place:livingroom274_scene2
+event:event2_use_phone4_scene2,time:18.906,action:walk,object:sofa301_scene2,place:livingroom274_scene2
+event:event3_use_phone4_scene2,time:26.909999999999997,action:sit,object:sofa301_scene2,place:livingroom274_scene2
+event:event4_use_phone4_scene2,time:40.29599999999999,action:text,object:cellphone333_scene2,place:livingroom274_scene2
+event:event6_use_phone4_scene2,time:40.29599999999999,action:walk,object:kitchen51_scene2,place:kitchen51_scene2
+event:event7_use_phone4_scene2,time:51.68099999999999,action:walk,object:milk192_scene2
+event:event8_use_phone4_scene2,time:54.78599999999999,action:grab,object:milk192_scene2,place:kitchen51_scene2
+event:event9_use_phone4_scene2,time:66.03299999999999,action:drink,object:milk192_scene2,place:kitchen51_scene2

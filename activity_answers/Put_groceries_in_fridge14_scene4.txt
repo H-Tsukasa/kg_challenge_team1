@@ -1,0 +1,12 @@
+event:event0_put_groceries_in_fridge14_scene4,time:4.347,action:walk,object:carrot378_scene4,place:kitchen11_scene4
+event:event1_put_groceries_in_fridge14_scene4,time:7.452,action:grab,object:carrot378_scene4,place:kitchen11_scene4
+event:event2_put_groceries_in_fridge14_scene4,time:14.559,action:walk,object:sink94_scene4,place:kitchen11_scene4
+event:event3_put_groceries_in_fridge14_scene4,time:17.939999999999998,action:switchOn,object:faucet95_scene4,place:kitchen11_scene4
+event:event4_put_groceries_in_fridge14_scene4,time:31.877999999999997,action:soak,object:carrot378_scene4,place:kitchen11_scene4
+event:event5_put_groceries_in_fridge14_scene4,time:48.3,action:rinse,object:carrot378_scene4,place:kitchen11_scene4
+event:event6_put_groceries_in_fridge14_scene4,time:51.681,action:switchOff,object:faucet95_scene4,place:kitchen11_scene4
+event:event7_put_groceries_in_fridge14_scene4,time:59.477999999999994,action:walk,object:fridge107_scene4,place:kitchen11_scene4
+event:event8_put_groceries_in_fridge14_scene4,time:62.78999999999999,action:open,object:fridge107_scene4,place:kitchen11_scene4
+event:event9_put_groceries_in_fridge14_scene4,time:62.78999999999999,action:turnTo,object:fridge107_scene4,place:kitchen11_scene4
+event:event10_put_groceries_in_fridge14_scene4,time:65.826,action:putIn,object:carrot378_scene4,t_object:fridge107_scene4,place:kitchen11_scene4
+event:event11_put_groceries_in_fridge14_scene4,time:69.13799999999999,action:close,object:fridge107_scene4,place:kitchen11_scene4

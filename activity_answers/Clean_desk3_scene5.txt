@@ -1,0 +1,16 @@
+event:event0_clean_desk3_scene5,time:4.829999999999999,action:walk,object:desk27_scene5,place:livingroom11_scene5
+event:event1_clean_desk3_scene5,time:10.764,action:walk,object:bathroom295_scene5
+event:event2_clean_desk3_scene5,time:14.904,action:walk,object:towel361_scene5,place:bathroom295_scene5
+event:event3_clean_desk3_scene5,time:18.009,action:grab,object:towel361_scene5,place:bathroom295_scene5
+event:event4_clean_desk3_scene5,time:26.979,action:walk,object:livingroom11_scene5
+event:event5_clean_desk3_scene5,time:32.844,action:walk,object:desk27_scene5,place:livingroom11_scene5
+event:event6_clean_desk3_scene5,time:35.397,action:walk,object:mouse105_scene5,place:livingroom11_scene5
+event:event7_clean_desk3_scene5,time:38.501999999999995,action:grab,object:mouse105_scene5,place:livingroom11_scene5
+event:event8_clean_desk3_scene5,time:39.605999999999995,action:turnTo,object:desk27_scene5,place:livingroom11_scene5
+event:event9_clean_desk3_scene5,time:57.82199999999999,action:wipe,object:towel361_scene5,t_object:desk27_scene5,place:livingroom11_scene5
+event:event10_clean_desk3_scene5,time:64.16999999999999,action:put,object:mouse105_scene5,place:livingroom11_scene5
+event:event11_clean_desk3_scene5,time:68.58599999999998,action:walk,object:keyboard104_scene5,place:livingroom11_scene5
+event:event12_clean_desk3_scene5,time:71.69099999999999,action:grab,object:keyboard104_scene5,place:livingroom11_scene5
+event:event13_clean_desk3_scene5,time:73.76099999999998,action:turnTo,object:desk27_scene5,place:livingroom11_scene5
+event:event14_clean_desk3_scene5,time:93.01199999999997,action:wipe,object:towel361_scene5,t_object:desk27_scene5,place:livingroom11_scene5
+event:event15_clean_desk3_scene5,time:99.35999999999997,action:put,object:keyboard104_scene5,place:livingroom11_scene5

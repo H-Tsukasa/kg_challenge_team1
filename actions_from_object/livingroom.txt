@@ -1,0 +1,14 @@
+He turn to livingroom.
+He walk livingroom.
+He switch off livingroom.
+He switch on livingroom.
+He close livingroom.
+He open livingroom.
+He sit livingroom.
+He stand livingroom.
+He find livingroom.
+He eat livingroom.
+He fall livingroom.
+He touch livingroom.
+He run livingroom.
+He jump livingroom.

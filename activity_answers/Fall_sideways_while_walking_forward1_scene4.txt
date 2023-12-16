@@ -1,0 +1,5 @@
+event:event0_fall_sideways_while_walking_forward1_scene4,time:7.59,action:walk,object:box326_scene4,place:livingroom274_scene4
+event:event1_fall_sideways_while_walking_forward1_scene4,time:10.695,action:grab,object:box326_scene4,place:livingroom274_scene4
+event:event2_fall_sideways_while_walking_forward1_scene4,time:19.802999999999997,action:walk,object:sofa282_scene4,place:livingroom274_scene4
+event:event3_fall_sideways_while_walking_forward1_scene4,time:26.150999999999996,action:sit,object:sofa282_scene4,place:livingroom274_scene4
+event:event4_fall_sideways_while_walking_forward1_scene4,time:41.60699999999999,action:fallsit,object:sofa282_scene4,place:livingroom274_scene4

@@ -1,0 +1,11 @@
+event:event0_cook_carrot1_scene1,time:10.694999999999999,action:walk,object:kitchen209_scene1
+event:event1_cook_carrot1_scene1,time:15.800999999999998,action:walk,object:carrot465_scene1,place:kitchen209_scene1
+event:event2_cook_carrot1_scene1,time:18.906,action:grab,object:carrot465_scene1,place:kitchen209_scene1
+event:event3_cook_carrot1_scene1,time:23.115,action:walk,object:sink249_scene1,place:kitchen209_scene1
+event:event4_cook_carrot1_scene1,time:28.220999999999997,action:switchOn,object:faucet250_scene1,place:kitchen209_scene1
+event:event5_cook_carrot1_scene1,time:43.745999999999995,action:soak,object:carrot465_scene1,place:kitchen209_scene1
+event:event6_cook_carrot1_scene1,time:47.126999999999995,action:switchOff,object:faucet250_scene1,place:kitchen209_scene1
+event:event7_cook_carrot1_scene1,time:51.129,action:walk,object:fryingpan270_scene1,place:kitchen209_scene1
+event:event8_cook_carrot1_scene1,time:54.165,action:put,object:carrot465_scene1,t_object:fryingpan270_scene1,place:kitchen209_scene1
+event:event9_cook_carrot1_scene1,time:57.477,action:switchOn,object:stove314_scene1,place:kitchen209_scene1
+event:event10_cook_carrot1_scene1,time:60.788999999999994,action:switchOff,object:stove314_scene1,place:kitchen209_scene1

@@ -1,0 +1,4 @@
+event:event0_admire_art1_scene6,time:8.969999999999999,action:walk,object:livingroom260_scene6
+event:event1_admire_art1_scene6,time:13.869,action:walk,object:wallpictureframe320_scene6,place:livingroom260_scene6
+event:event2_admire_art1_scene6,time:13.869,action:turnTo,object:wallpictureframe320_scene6,place:livingroom260_scene6
+event:event3_admire_art1_scene6,time:13.869,action:lookAt,object:wallpictureframe320_scene6,place:livingroom260_scene6

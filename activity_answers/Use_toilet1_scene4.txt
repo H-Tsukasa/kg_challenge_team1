@@ -1,0 +1,4 @@
+event:event0_use_toilet1_scene4,time:10.971,action:walk,object:kitchen11_scene4
+event:event1_use_toilet1_scene4,time:18.561,action:walk,object:bathroom177_scene4
+event:event2_use_toilet1_scene4,time:21.39,action:walk,object:toilet193_scene4,place:bathroom177_scene4
+event:event3_use_toilet1_scene4,time:29.67,action:sit,object:toilet193_scene4,place:bathroom177_scene4

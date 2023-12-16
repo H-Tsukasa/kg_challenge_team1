@@ -1,0 +1,8 @@
+event:event0_fall_while_sitting_down_or_lowering1_scene1,time:10.419,action:walk,object:bedroom75_scene1
+event:event1_fall_while_sitting_down_or_lowering1_scene1,time:12.489,action:walk,object:bed112_scene1,place:bedroom75_scene1
+event:event2_fall_while_sitting_down_or_lowering1_scene1,time:22.08,action:sit,object:bed112_scene1,place:bedroom75_scene1
+event:event4_fall_while_sitting_down_or_lowering1_scene1,time:29.049,action:walk,object:lightswitch176_scene1,place:bedroom75_scene1
+event:event5_fall_while_sitting_down_or_lowering1_scene1,time:32.43,action:switchOff,object:lightswitch176_scene1,place:bedroom75_scene1
+event:event6_fall_while_sitting_down_or_lowering1_scene1,time:38.847,action:walk,object:bed112_scene1,place:bedroom75_scene1
+event:event7_fall_while_sitting_down_or_lowering1_scene1,time:48.714,action:sit,object:bed112_scene1,place:bedroom75_scene1
+event:event8_fall_while_sitting_down_or_lowering1_scene1,time:64.17,action:fallsit,object:bed112_scene1,place:bedroom75_scene1
