@@ -1,6 +1,6 @@
-He type computer.
 He type desk.
-He type keyboard.
 He type notes.
-He type cellphone.
 He type paper.
+He type computer.
+He type keyboard.
+He type cellphone.
