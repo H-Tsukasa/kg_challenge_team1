@@ -24,6 +24,9 @@ Infer missing data from the [missing knowledge graph](https://github.com/Knowled
 #### task1
 ```
 SPARQLWrapper==2.0.0
+```
+#### task2
+```
 torch==2.1.0
 torchaudio==0.13.0+cu117
 torchvision==0.16.0
